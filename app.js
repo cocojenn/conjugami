@@ -1,150 +1,11 @@
-// Base de données de verbes
-const verbDatabase = {
-    'manger': {
-        fr: 'manger',
-        en: ['eat', 'to eat'],
-        es: ['comer'],
-        pt: ['comer'],
-        it: ['mangiare'],
-        conjugations: {
-            present: {
-                forms: ['je mange', 'tu manges', 'il/elle/on mange', 'nous mangeons', 'vous mangez', 'ils/elles mangent'],
-                negative: ['je ne mange pas', 'tu ne manges pas', 'il/elle/on ne mange pas', 'nous ne mangeons pas', 'vous ne mangez pas', 'ils/elles ne mangent pas'],
-                tip: 'Verbe régulier en -ER',
-                usage: 'Action présente, vérité générale, habitude',
-                timeIndicators: 'maintenant, aujourd\'hui, tous les jours, souvent',
-                examples: ['Je mange une pizza.', 'Tu manges au restaurant.', 'Nous mangeons ensemble.'],
-                examplesNegative: ['Je ne mange pas de viande.', 'Tu ne manges pas le matin.', 'Nous ne mangeons pas ensemble.']
-            },
-            passeCompose: {
-                forms: ["j'ai mangé", 'tu as mangé', 'il/elle/on a mangé', 'nous avons mangé', 'vous avez mangé', 'ils/elles ont mangé'],
-                negative: ["je n'ai pas mangé", "tu n'as pas mangé", "il/elle/on n'a pas mangé", "nous n'avons pas mangé", "vous n'avez pas mangé", "ils/elles n'ont pas mangé"],
-                tip: 'Avec AVOIR + participe passé -É',
-                usage: 'Action terminée dans le passé',
-                timeIndicators: 'hier, la semaine dernière, en 2020, il y a 3 jours',
-                examples: ["Hier, j'ai mangé une pizza.", 'Tu as mangé quoi ?', 'Nous avons mangé ensemble.'],
-                examplesNegative: ["Je n'ai pas mangé ce matin.", "Tu n'as pas mangé hier.", "Nous n'avons pas mangé ensemble."]
-            },
-            imparfait: {
-                forms: ['je mangeais', 'tu mangeais', 'il/elle/on mangeait', 'nous mangions', 'vous mangiez', 'ils/elles mangeaient'],
-                negative: ['je ne mangeais pas', 'tu ne mangeais pas', 'il/elle/on ne mangeait pas', 'nous ne mangions pas', 'vous ne mangiez pas', 'ils/elles ne mangeaient pas'],
-                tip: 'Radical: mange- + terminaisons de l\'imparfait',
-                usage: 'Habitude passée, description, action en cours dans le passé',
-                timeIndicators: 'avant, quand j\'étais petit, tous les jours (passé), souvent (passé)',
-                examples: ['Quand j\'étais petit, je mangeais beaucoup.', 'Tu mangeais toujours à la cantine.', 'Nous mangions ensemble tous les jours.'],
-                examplesNegative: ['Je ne mangeais pas de légumes avant.', 'Tu ne mangeais pas à la cantine.', 'Nous ne mangions pas ensemble.']
-            },
-            futurProche: {
-                forms: ['je vais manger', 'tu vas manger', 'il/elle/on va manger', 'nous allons manger', 'vous allez manger', 'ils/elles vont manger'],
-                negative: ['je ne vais pas manger', 'tu ne vas pas manger', 'il/elle/on ne va pas manger', 'nous n\'allons pas manger', 'vous n\'allez pas manger', 'ils/elles ne vont pas manger'],
-                tip: 'ALLER (au présent) + infinitif',
-                usage: 'Action future proche, intention',
-                timeIndicators: 'tout à l\'heure, bientôt, dans 5 minutes, ce soir',
-                examples: ['Je vais manger dans 5 minutes.', 'Tu vas manger où ?', 'Nous allons manger ensemble ce soir.'],
-                examplesNegative: ['Je ne vais pas manger maintenant.', 'Tu ne vas pas manger ici.', 'Nous n\'allons pas manger ensemble.']
-            },
-            futurSimple: {
-                forms: ['je mangerai', 'tu mangeras', 'il/elle/on mangera', 'nous mangerons', 'vous mangerez', 'ils/elles mangeront'],
-                negative: ['je ne mangerai pas', 'tu ne mangeras pas', 'il/elle/on ne mangera pas', 'nous ne mangerons pas', 'vous ne mangerez pas', 'ils/elles ne mangeront pas'],
-                tip: 'Infinitif + terminaisons du futur',
-                usage: 'Action future, prédiction, promesse',
-                timeIndicators: 'demain, la semaine prochaine, dans 2 ans, plus tard',
-                examples: ['Demain, je mangerai au restaurant.', 'Tu mangeras avec nous ?', 'Nous mangerons à 20h.'],
-                examplesNegative: ['Je ne mangerai pas demain.', 'Tu ne mangeras pas ici.', 'Nous ne mangerons pas ensemble.']
-            },
-            plusQueParfait: {
-                forms: ["j'avais mangé", 'tu avais mangé', 'il/elle/on avait mangé', 'nous avions mangé', 'vous aviez mangé', 'ils/elles avaient mangé'],
-                negative: ["je n'avais pas mangé", "tu n'avais pas mangé", "il/elle/on n'avait pas mangé", "nous n'avions pas mangé", "vous n'aviez pas mangé", "ils/elles n'avaient pas mangé"],
-                tip: 'AVOIR à l\'imparfait + participe passé',
-                usage: 'Action passée avant une autre action passée',
-                timeIndicators: 'avant de..., déjà, quand (+ passé composé)',
-                examples: ["J'avais mangé avant de partir.", 'Tu avais mangé quoi ?', 'Nous avions mangé ensemble.'],
-                examplesNegative: ["Je n'avais pas mangé avant.", "Tu n'avais pas mangé ce jour-là.", "Nous n'avions pas mangé ensemble."]
-            },
-            conditionnel: {
-                forms: ['je mangerais', 'tu mangerais', 'il/elle/on mangerait', 'nous mangerions', 'vous mangeriez', 'ils/elles mangeraient'],
-                negative: ['je ne mangerais pas', 'tu ne mangerais pas', 'il/elle/on ne mangerait pas', 'nous ne mangerions pas', 'vous ne mangeriez pas', 'ils/elles ne mangeraient pas'],
-                tip: 'Infinitif + terminaisons de l\'imparfait',
-                usage: 'Souhait, politesse, hypothèse',
-                timeIndicators: 'si (+ imparfait), peut-être, volontiers',
-                examples: ['Je mangerais bien une pizza.', 'Tu mangerais avec nous ?', 'Nous mangerions volontiers.'],
-                examplesNegative: ['Je ne mangerais pas ça.', 'Tu ne mangerais pas ici.', 'Nous ne mangerions pas ensemble.']
-            }
-        }
-    },
-    'aller': {
-        fr: 'aller',
-        en: ['go', 'to go'],
-        es: ['ir'],
-        pt: ['ir'],
-        it: ['andare'],
-        conjugations: {
-            present: {
-                forms: ['je vais', 'tu vas', 'il/elle/on va', 'nous allons', 'vous allez', 'ils/elles vont'],
-                negative: ['je ne vais pas', 'tu ne vas pas', 'il/elle/on ne va pas', 'nous n\'allons pas', 'vous n\'allez pas', 'ils/elles ne vont pas'],
-                tip: 'Verbe irrégulier très utilisé',
-                usage: 'Action présente, vérité générale, futur proche',
-                timeIndicators: 'maintenant, aujourd\'hui, tous les jours',
-                examples: ['Je vais au cinéma.', 'Tu vas où ?', 'Nous allons à Paris.'],
-                examplesNegative: ['Je ne vais pas au cinéma.', 'Tu ne vas pas où ?', 'Nous n\'allons pas à Paris.']
-            },
-            passeCompose: {
-                forms: ['je suis allé(e)', 'tu es allé(e)', 'il/elle/on est allé(e)', 'nous sommes allé(e)s', 'vous êtes allé(e)(s)', 'ils/elles sont allé(e)s'],
-                negative: ['je ne suis pas allé(e)', 'tu n\'es pas allé(e)', 'il/elle/on n\'est pas allé(e)', 'nous ne sommes pas allé(e)s', 'vous n\'êtes pas allé(e)(s)', 'ils/elles ne sont pas allé(e)s'],
-                tip: 'Avec ÊTRE + accord du participe !',
-                usage: 'Action terminée dans le passé',
-                timeIndicators: 'hier, la semaine dernière, en 2020',
-                examples: ['Je suis allé au cinéma hier.', 'Tu es allé où ?', 'Nous sommes allés à Paris.'],
-                examplesNegative: ['Je ne suis pas allé au cinéma.', 'Tu n\'es pas allé où ?', 'Nous ne sommes pas allés à Paris.']
-            },
-            imparfait: {
-                forms: ["j'allais", 'tu allais', 'il/elle/on allait', 'nous allions', 'vous alliez', 'ils/elles allaient'],
-                negative: ["je n'allais pas", "tu n'allais pas", "il/elle/on n'allait pas", "nous n'allions pas", "vous n'alliez pas", "ils/elles n'allaient pas"],
-                tip: 'Radical: all- + terminaisons',
-                usage: 'Habitude passée, description, action en cours',
-                timeIndicators: 'avant, quand j\'étais petit, souvent (passé)',
-                examples: ["J'allais souvent au parc.", 'Tu allais à l\'école à pied ?', 'Nous allions au marché le samedi.'],
-                examplesNegative: ["Je n'allais pas souvent au parc.", "Tu n'allais pas à l'école.", "Nous n'allions pas au marché."]
-            },
-            futurProche: {
-                forms: ['je vais aller', 'tu vas aller', 'il/elle/on va aller', 'nous allons aller', 'vous allez aller', 'ils/elles vont aller'],
-                negative: ['je ne vais pas aller', 'tu ne vas pas aller', 'il/elle/on ne va pas aller', 'nous n\'allons pas aller', 'vous n\'allez pas aller', 'ils/elles ne vont pas aller'],
-                tip: 'ALLER + ALLER (oui, deux fois !)',
-                usage: 'Action future proche',
-                timeIndicators: 'tout à l\'heure, bientôt, dans 5 minutes',
-                examples: ['Je vais aller au cinéma.', 'Tu vas aller où ?', 'Nous allons aller à Paris.'],
-                examplesNegative: ['Je ne vais pas aller au cinéma.', 'Tu ne vas pas aller où ?', 'Nous n\'allons pas aller à Paris.']
-            },
-            futurSimple: {
-                forms: ["j'irai", 'tu iras', 'il/elle/on ira', 'nous irons', 'vous irez', 'ils/elles iront'],
-                negative: ["je n'irai pas", "tu n'iras pas", "il/elle/on n'ira pas", "nous n'irons pas", "vous n'irez pas", "ils/elles n'iront pas"],
-                tip: 'Radical irrégulier: ir-',
-                usage: 'Action future, prédiction',
-                timeIndicators: 'demain, la semaine prochaine, plus tard',
-                examples: ["J'irai au cinéma demain.", 'Tu iras où ?', 'Nous irons à Paris.'],
-                examplesNegative: ["Je n'irai pas au cinéma.", "Tu n'iras pas où ?", "Nous n'irons pas à Paris."]
-            },
-            plusQueParfait: {
-                forms: ["j'étais allé(e)", 'tu étais allé(e)', 'il/elle/on était allé(e)', 'nous étions allé(e)s', 'vous étiez allé(e)(s)', 'ils/elles étaient allé(e)s'],
-                negative: ["je n'étais pas allé(e)", "tu n'étais pas allé(e)", "il/elle/on n'était pas allé(e)", "nous n'étions pas allé(e)s", "vous n'étiez pas allé(e)(s)", "ils/elles n'étaient pas allé(e)s"],
-                tip: 'ÊTRE à l\'imparfait + participe',
-                usage: 'Action passée avant une autre action passée',
-                timeIndicators: 'avant de..., déjà, quand',
-                examples: ["J'étais allé au cinéma avant.", 'Tu étais allé où ?', 'Nous étions allés à Paris.'],
-                examplesNegative: ["Je n'étais pas allé au cinéma.", "Tu n'étais pas allé où ?", "Nous n'étions pas allés à Paris."]
-            },
-            conditionnel: {
-                forms: ["j'irais", 'tu irais', 'il/elle/on irait', 'nous irions', 'vous iriez', 'ils/elles iraient'],
-                negative: ["je n'irais pas", "tu n'irais pas", "il/elle/on n'irait pas", "nous n'irions pas", "vous n'iriez pas", "ils/elles n'iraient pas"],
-                tip: 'Radical irrégulier: ir-',
-                usage: 'Souhait, politesse, hypothèse',
-                timeIndicators: 'si (+ imparfait), peut-être, volontiers',
-                examples: ["J'irais bien au cinéma.", 'Tu irais où ?', 'Nous irions à Paris.'],
-                examplesNegative: ["Je n'irais pas au cinéma.", "Tu n'irais pas où ?", "Nous n'irions pas à Paris."]
-            }
-        }
-    }
-};
+// CONJUGAMI - APP.JS avec système de variantes
+// Charge les verbes depuis verbs.json et gère l'adaptation automatique
+
+// Variables globales
+let verbDatabase = {};
+let currentVerb = null;
+let searchedVerb = null; // Le verbe que l'utilisateur a cherché
+let baseVerb = null; // Le verbe de base utilisé pour la conjugaison
 
 // Noms des temps
 const tenseNames = {
@@ -156,10 +17,6 @@ const tenseNames = {
     plusQueParfait: '🟠 Plus-que-parfait',
     conditionnel: '🟤 Conditionnel'
 };
-
-// Variables globales
-let currentVerb = null;
-let isNegative = false;
 
 // LocalStorage helpers
 const storage = {
@@ -192,46 +49,154 @@ const storage = {
     }
 };
 
+// Charger les verbes depuis verbs.json
+async function loadVerbs() {
+    try {
+        const response = await fetch('verbs.json');
+        const data = await response.json();
+        verbDatabase = data.verbs;
+        console.log(`✅ ${Object.keys(verbDatabase).length} verbes de base chargés`);
+    } catch (error) {
+        console.error('❌ Erreur chargement verbs.json:', error);
+        alert('Erreur: Impossible de charger les verbes. Vérifie que verbs.json est présent.');
+    }
+}
+
 // Navigation
 function showPage(pageId) {
     document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
     document.getElementById(pageId).classList.add('active');
 }
 
-// Recherche de verbe
+// Recherche de verbe (avec support des variantes)
 function searchVerb(query) {
     query = query.toLowerCase().trim();
     
+    // 1. Chercher directement dans les verbes de base
     for (let verb in verbDatabase) {
         const data = verbDatabase[verb];
-        if (data.fr === query) return verb;
-        if (data.en.some(t => t === query)) return verb;
-        if (data.es.some(t => t === query)) return verb;
-        if (data.pt.some(t => t === query)) return verb;
-        if (data.it.some(t => t === query)) return verb;
+        
+        // Chercher en français
+        if (data.fr === query) return { base: verb, searched: query, isVariant: false };
+        
+        // Chercher dans les traductions
+        if (data.en.some(t => t === query)) return { base: verb, searched: query, isVariant: false };
+        if (data.es.some(t => t === query)) return { base: verb, searched: query, isVariant: false };
+        if (data.pt.some(t => t === query)) return { base: verb, searched: query, isVariant: false };
+        if (data.it.some(t => t === query)) return { base: verb, searched: query, isVariant: false };
+    }
+    
+    // 2. Chercher dans les variantes
+    for (let verb in verbDatabase) {
+        const data = verbDatabase[verb];
+        if (data.variants && data.variants.includes(query)) {
+            return { base: verb, searched: query, isVariant: true };
+        }
     }
     
     return null;
 }
 
-// Afficher la conjugaison avec dropdowns
-function displayConjugation(verb) {
-    currentVerb = verb;
-    const data = verbDatabase[verb];
+// Adapter une conjugaison pour une variante
+function adaptConjugation(baseVerb, searchedVerb, conjugation) {
+    // Si c'est le même verbe, pas d'adaptation
+    if (baseVerb === searchedVerb) return conjugation;
     
-    document.getElementById('verb-title').textContent = verb.toUpperCase();
+    // Remplacer le verbe de base par la variante
+    // Ex: "je viens" → "je reviens" (venir → revenir)
+    
+    // Méthode simple : remplacer toutes les occurrences
+    // Pour les verbes en -ER : parler → reparler
+    // Pour les irréguliers : venir → revenir
+    
+    // Trouver le radical du verbe de base
+    let baseRoot = baseVerb;
+    if (baseVerb.endsWith('er')) {
+        baseRoot = baseVerb.slice(0, -2);
+    } else if (baseVerb.endsWith('ir')) {
+        baseRoot = baseVerb.slice(0, -2);
+    } else if (baseVerb.endsWith('re')) {
+        baseRoot = baseVerb.slice(0, -2);
+    } else {
+        // Verbe irrégulier - on garde tout
+        baseRoot = baseVerb;
+    }
+    
+    // Trouver le radical de la variante
+    let searchedRoot = searchedVerb;
+    if (searchedVerb.endsWith('er')) {
+        searchedRoot = searchedVerb.slice(0, -2);
+    } else if (searchedVerb.endsWith('ir')) {
+        searchedRoot = searchedVerb.slice(0, -2);
+    } else if (searchedVerb.endsWith('re')) {
+        searchedRoot = searchedVerb.slice(0, -2);
+    }
+    
+    // Remplacer intelligemment
+    // Cas spécial pour les verbes irréguliers comme venir/revenir
+    const irregularMappings = {
+        'vien': 'revien', 'ven': 'reven', 'viend': 'reviend', 'vienn': 'revienn',
+        'vai': 'revai', 'von': 'revon', 'all': 'reall',
+        'pren': 'appren', 'prenn': 'apprenn', 'pri': 'appri',
+        'met': 'remet', 'mett': 'remett', 'mi': 'remi',
+        'fai': 'refai', 'fass': 'refass', 'fer': 'refer', 'fe': 'refe',
+        'di': 'redi', 'disen': 'redisen', 'dison': 'redison'
+    };
+    
+    // Essayer de trouver un mapping
+    let adapted = conjugation;
+    
+    // Pour les verbes réguliers, remplacement simple du radical
+    if (baseVerb.endsWith('er') && searchedVerb.endsWith('er')) {
+        adapted = conjugation.replace(new RegExp(baseRoot, 'g'), searchedRoot);
+    } else {
+        // Pour les irréguliers, essayer les mappings
+        for (let [base, variant] of Object.entries(irregularMappings)) {
+            if (adapted.includes(base) && searchedVerb.includes(variant.slice(0, -1))) {
+                adapted = adapted.replace(new RegExp(base, 'g'), variant);
+            }
+        }
+        
+        // Si ça n'a pas marché, essayer le remplacement simple
+        if (adapted === conjugation) {
+            adapted = conjugation.replace(new RegExp(baseRoot, 'g'), searchedRoot);
+        }
+    }
+    
+    return adapted;
+}
+
+// Afficher la conjugaison avec support des variantes
+function displayConjugation(searchResult) {
+    baseVerb = searchResult.base;
+    searchedVerb = searchResult.searched;
+    currentVerb = searchedVerb; // On stocke le verbe cherché
+    
+    const data = verbDatabase[baseVerb];
+    
+    // Titre avec indication de variante
+    let titleHTML = searchedVerb.toUpperCase();
+    if (searchResult.isVariant) {
+        titleHTML += `<br><small style="font-size: 14px; color: #9B8FD8;">💡 Se conjugue comme ${baseVerb.toUpperCase()}</small>`;
+    }
+    document.getElementById('verb-title').innerHTML = titleHTML;
     
     const container = document.getElementById('conjugations-container');
     container.innerHTML = '';
     
     for (let tense in data.conjugations) {
         const tenseData = data.conjugations[tense];
-        const forms = isNegative ? tenseData.negative : tenseData.forms;
-        const examples = isNegative ? tenseData.examplesNegative : tenseData.examples;
-        const userExamples = storage.getExamples(verb, tense);
+        const userExamples = storage.getExamples(searchedVerb, tense);
+        
+        // Adapter les conjugaisons pour la variante
+        const adaptedForms = tenseData.forms.map(f => adaptConjugation(baseVerb, searchedVerb, f));
+        const adaptedNegative = tenseData.negative.map(f => adaptConjugation(baseVerb, searchedVerb, f));
+        const adaptedExamples = tenseData.examples.map(f => adaptConjugation(baseVerb, searchedVerb, f));
+        const adaptedExamplesNegative = tenseData.examplesNegative.map(f => adaptConjugation(baseVerb, searchedVerb, f));
         
         const section = document.createElement('div');
         section.className = 'tense-section';
+        section.dataset.tense = tense;
         
         section.innerHTML = `
             <div class="tense-header" data-tense="${tense}">
@@ -243,16 +208,25 @@ function displayConjugation(verb) {
             </div>
             <div class="tense-content" data-tense="${tense}">
                 <div class="tense-body">
+                    <!-- Toggle négatif PAR TEMPS -->
+                    <div class="negative-toggle" style="margin-bottom: 20px;">
+                        <label class="switch">
+                            <input type="checkbox" class="negative-toggle-${tense}">
+                            <span class="slider"></span>
+                        </label>
+                        <span class="toggle-label">Forme négative</span>
+                    </div>
+                    
                     <div class="time-indicators">
                         <strong>⏰ Indicateurs :</strong> ${tenseData.timeIndicators}
                     </div>
-                    <div class="conjugation-list">
-                        ${forms.map(f => `<div class="conjugation-item">${f}</div>`).join('')}
+                    <div class="conjugation-list" data-tense="${tense}">
+                        ${adaptedForms.map(f => `<div class="conjugation-item">${f}</div>`).join('')}
                     </div>
                     <div class="tip-box">💡 ${tenseData.tip}</div>
-                    <div class="examples-box">
+                    <div class="examples-box" data-tense="${tense}">
                         <h4>📖 Exemples :</h4>
-                        ${examples.map(ex => `<div class="example-item">${ex}</div>`).join('')}
+                        ${adaptedExamples.map(ex => `<div class="example-item">${ex}</div>`).join('')}
                     </div>
                     ${userExamples.length > 0 ? `
                         <div class="user-examples">
@@ -260,7 +234,7 @@ function displayConjugation(verb) {
                             ${userExamples.map((ex, i) => `
                                 <div class="user-example-item">
                                     ${ex.text}
-                                    <button class="delete-user-example" onclick="deleteExample('${verb}', '${tense}', ${i})">🗑️</button>
+                                    <button class="delete-user-example" onclick="deleteExample('${searchedVerb}', '${tense}', ${i})">🗑️</button>
                                 </div>
                             `).join('')}
                         </div>
@@ -268,13 +242,19 @@ function displayConjugation(verb) {
                     <div class="add-example-inline">
                         <h4>➕ Ajouter mon exemple</h4>
                         <textarea class="example-input-${tense}" placeholder="Écris ta phrase ici..."></textarea>
-                        <button onclick="saveExample('${verb}', '${tense}')">Sauvegarder</button>
+                        <button onclick="saveExample('${searchedVerb}', '${tense}')">Sauvegarder</button>
                     </div>
                 </div>
             </div>
         `;
         
         container.appendChild(section);
+        
+        // Stocker les formes adaptées pour le toggle négatif
+        section.dataset.adaptedForms = JSON.stringify(adaptedForms);
+        section.dataset.adaptedNegative = JSON.stringify(adaptedNegative);
+        section.dataset.adaptedExamples = JSON.stringify(adaptedExamples);
+        section.dataset.adaptedExamplesNegative = JSON.stringify(adaptedExamplesNegative);
     }
     
     // Add click listeners pour les dropdowns
@@ -288,7 +268,35 @@ function displayConjugation(verb) {
         });
     });
     
-    storage.addToHistory(verb);
+    // Add listeners pour les toggles négatifs PAR TEMPS
+    for (let tense in data.conjugations) {
+        const toggle = document.querySelector(`.negative-toggle-${tense}`);
+        const section = document.querySelector(`.tense-section[data-tense="${tense}"]`);
+        
+        toggle.addEventListener('change', (e) => {
+            const isNegative = e.target.checked;
+            const adaptedForms = JSON.parse(section.dataset.adaptedForms);
+            const adaptedNegative = JSON.parse(section.dataset.adaptedNegative);
+            const adaptedExamples = JSON.parse(section.dataset.adaptedExamples);
+            const adaptedExamplesNegative = JSON.parse(section.dataset.adaptedExamplesNegative);
+            
+            const forms = isNegative ? adaptedNegative : adaptedForms;
+            const examples = isNegative ? adaptedExamplesNegative : adaptedExamples;
+            
+            // Update conjugaisons
+            const conjugationList = document.querySelector(`.conjugation-list[data-tense="${tense}"]`);
+            conjugationList.innerHTML = forms.map(f => `<div class="conjugation-item">${f}</div>`).join('');
+            
+            // Update exemples
+            const examplesBox = document.querySelector(`.examples-box[data-tense="${tense}"]`);
+            examplesBox.innerHTML = `
+                <h4>📖 Exemples :</h4>
+                ${examples.map(ex => `<div class="example-item">${ex}</div>`).join('')}
+            `;
+        });
+    }
+    
+    storage.addToHistory(searchedVerb);
     showPage('conjugation-page');
 }
 
@@ -300,7 +308,10 @@ function saveExample(verb, tense) {
     if (text) {
         storage.addExample(verb, tense, text);
         textarea.value = '';
-        displayConjugation(verb);
+        
+        // Recharger en gardant le verbe cherché
+        const searchResult = searchVerb(verb);
+        displayConjugation(searchResult);
         updateProgress();
         
         // Réouvrir le dropdown du temps concerné
@@ -316,7 +327,8 @@ function saveExample(verb, tense) {
 // Supprimer un exemple
 function deleteExample(verb, tense, index) {
     storage.deleteExample(verb, tense, index);
-    displayConjugation(verb);
+    const searchResult = searchVerb(verb);
+    displayConjugation(searchResult);
     updateProgress();
     
     // Réouvrir le dropdown
@@ -334,15 +346,18 @@ function displayMesVerbes() {
     const container = document.getElementById('mes-verbes-list');
     
     if (history.length === 0) {
-        container.innerHTML = '<p style="color: #7f8c8d; font-style: italic;">Aucun verbe consulté pour le moment</p>';
+        container.innerHTML = '<p style="color: #7f8c8d; font-style: italic;">Aucun verbe consulté pour le moment.</p>';
         return;
     }
     
-    container.innerHTML = history.map(verb => `
-        <div class="verb-card" onclick="displayConjugation('${verb}')">
-            <strong>${verb.toUpperCase()}</strong>
-        </div>
-    `).join('');
+    container.innerHTML = history.map(verb => {
+        const searchResult = searchVerb(verb);
+        return `
+            <div class="verb-card" onclick='displayConjugation(${JSON.stringify(searchResult)})'>
+                <strong>${verb.toUpperCase()}</strong>
+            </div>
+        `;
+    }).join('');
 }
 
 // Mettre à jour la progression
@@ -394,25 +409,18 @@ function updateProgress() {
 // Event Listeners
 document.getElementById('search-btn').addEventListener('click', () => {
     const query = document.getElementById('search-input').value;
-    const verb = searchVerb(query);
+    const searchResult = searchVerb(query);
     
-    if (verb) {
-        displayConjugation(verb);
+    if (searchResult) {
+        displayConjugation(searchResult);
     } else {
-        alert('Verbe non trouvé. Essaye "manger" ou "aller" pour le moment !');
+        alert('Verbe non trouvé. Essaye "être", "avoir", "parler", "aimer", ou "manger" !');
     }
 });
 
 document.getElementById('search-input').addEventListener('keypress', (e) => {
     if (e.key === 'Enter') {
         document.getElementById('search-btn').click();
-    }
-});
-
-document.getElementById('negative-mode').addEventListener('change', (e) => {
-    isNegative = e.target.checked;
-    if (currentVerb) {
-        displayConjugation(currentVerb);
     }
 });
 
@@ -436,4 +444,8 @@ document.getElementById('back-mes-verbes').addEventListener('click', () => showP
 document.getElementById('back-origami').addEventListener('click', () => showPage('home-page'));
 
 // Initialisation
-updateProgress();
+(async function init() {
+    await loadVerbs();
+    updateProgress();
+})();
+

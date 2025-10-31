@@ -1,0 +1,5492 @@
+{
+  "verbs": {
+    "parler": {
+      "fr": "parler",
+      "variants": [
+        "reparler"
+      ],
+      "en": [
+        "speak",
+        "talk"
+      ],
+      "es": [
+        "hablar"
+      ],
+      "pt": [
+        "falar"
+      ],
+      "it": [
+        "parlare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je parle",
+            "tu parles",
+            "il/elle/on parle",
+            "nous parlons",
+            "vous parlez",
+            "ils/elles parlent"
+          ],
+          "negative": [
+            "je ne parle pas",
+            "tu ne parles pas",
+            "il/elle/on ne parle pas",
+            "nous ne parlons pas",
+            "vous ne parlez pas",
+            "ils/elles ne parlent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je parle souvent.",
+            "Tu parles bien.",
+            "Nous parlons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne parle pas.",
+            "Tu ne parles pas.",
+            "Nous ne parlons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai parlé",
+            "tu as parlé",
+            "il/elle/on a parlé",
+            "nous avons parlé",
+            "vous avez parlé",
+            "ils/elles ont parlé"
+          ],
+          "negative": [
+            "je n'ai pas parlé",
+            "tu n'as pas parlé",
+            "il/elle/on n'a pas parlé",
+            "nous n'avons pas parlé",
+            "vous n'avez pas parlé",
+            "ils/elles n'ont pas parlé"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai parlé hier.",
+            "Tu as parlé quoi ?",
+            "Nous avons parlé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas parlé.",
+            "Tu n'as pas parlé.",
+            "Nous n'avons pas parlé."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je parlais",
+            "tu parlais",
+            "il/elle/on parlait",
+            "nous parlions",
+            "vous parliez",
+            "ils/elles parlaient"
+          ],
+          "negative": [
+            "je ne parlais pas",
+            "tu ne parlais pas",
+            "il/elle/on ne parlait pas",
+            "nous ne parlions pas",
+            "vous ne parliez pas",
+            "ils/elles ne parlaient pas"
+          ],
+          "tip": "Radical: parl- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je parlais souvent.",
+            "Tu parlais bien.",
+            "Nous parlions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne parlais pas.",
+            "Tu ne parlais pas.",
+            "Nous ne parlions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais parler",
+            "tu vas parler",
+            "il/elle/on va parler",
+            "nous allons parler",
+            "vous allez parler",
+            "ils/elles vont parler"
+          ],
+          "negative": [
+            "je ne vais pas parler",
+            "tu ne vas pas parler",
+            "il/elle/on ne va pas parler",
+            "nous n'allons pas parler",
+            "vous n'allez pas parler",
+            "ils/elles ne vont pas parler"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais parler.",
+            "Tu vas parler ?",
+            "Nous allons parler."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas parler.",
+            "Tu ne vas pas parler.",
+            "Nous n'allons pas parler."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je parlerai",
+            "tu parleras",
+            "il/elle/on parlera",
+            "nous parlerons",
+            "vous parlerez",
+            "ils/elles parleront"
+          ],
+          "negative": [
+            "je ne parlerai pas",
+            "tu ne parleras pas",
+            "il/elle/on ne parlera pas",
+            "nous ne parlerons pas",
+            "vous ne parlerez pas",
+            "ils/elles ne parleront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je parlerai demain.",
+            "Tu parleras ?",
+            "Nous parlerons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne parlerai pas.",
+            "Tu ne parleras pas.",
+            "Nous ne parlerons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais parlé",
+            "tu avais parlé",
+            "il/elle/on avait parlé",
+            "nous avions parlé",
+            "vous aviez parlé",
+            "ils/elles avaient parlé"
+          ],
+          "negative": [
+            "je n'avais pas parlé",
+            "tu n'avais pas parlé",
+            "il/elle/on n'avait pas parlé",
+            "nous n'avions pas parlé",
+            "vous n'aviez pas parlé",
+            "ils/elles n'avaient pas parlé"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais parlé avant.",
+            "Tu avais parlé ?",
+            "Nous avions parlé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas parlé.",
+            "Tu n'avais pas parlé.",
+            "Nous n'avions pas parlé."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je parlerais",
+            "tu parlerais",
+            "il/elle/on parlerait",
+            "nous parlerions",
+            "vous parleriez",
+            "ils/elles parleraient"
+          ],
+          "negative": [
+            "je ne parlerais pas",
+            "tu ne parlerais pas",
+            "il/elle/on ne parlerait pas",
+            "nous ne parlerions pas",
+            "vous ne parleriez pas",
+            "ils/elles ne parleraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je parlerais bien.",
+            "Tu parlerais ?",
+            "Nous parlerions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne parlerais pas.",
+            "Tu ne parlerais pas.",
+            "Nous ne parlerions pas."
+          ]
+        }
+      }
+    },
+    "aimer": {
+      "fr": "aimer",
+      "variants": [
+        "adorer",
+        "détester"
+      ],
+      "en": [
+        "love",
+        "like"
+      ],
+      "es": [
+        "amar",
+        "gustar"
+      ],
+      "pt": [
+        "amar",
+        "gostar"
+      ],
+      "it": [
+        "amare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je aime",
+            "tu aimes",
+            "il/elle/on aime",
+            "nous aimons",
+            "vous aimez",
+            "ils/elles aiment"
+          ],
+          "negative": [
+            "je ne aime pas",
+            "tu ne aimes pas",
+            "il/elle/on ne aime pas",
+            "nous ne aimons pas",
+            "vous ne aimez pas",
+            "ils/elles ne aiment pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je aime souvent.",
+            "Tu aimes bien.",
+            "Nous aimons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne aime pas.",
+            "Tu ne aimes pas.",
+            "Nous ne aimons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai aimé",
+            "tu as aimé",
+            "il/elle/on a aimé",
+            "nous avons aimé",
+            "vous avez aimé",
+            "ils/elles ont aimé"
+          ],
+          "negative": [
+            "je n'ai pas aimé",
+            "tu n'as pas aimé",
+            "il/elle/on n'a pas aimé",
+            "nous n'avons pas aimé",
+            "vous n'avez pas aimé",
+            "ils/elles n'ont pas aimé"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai aimé hier.",
+            "Tu as aimé quoi ?",
+            "Nous avons aimé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas aimé.",
+            "Tu n'as pas aimé.",
+            "Nous n'avons pas aimé."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je aimais",
+            "tu aimais",
+            "il/elle/on aimait",
+            "nous aimions",
+            "vous aimiez",
+            "ils/elles aimaient"
+          ],
+          "negative": [
+            "je ne aimais pas",
+            "tu ne aimais pas",
+            "il/elle/on ne aimait pas",
+            "nous ne aimions pas",
+            "vous ne aimiez pas",
+            "ils/elles ne aimaient pas"
+          ],
+          "tip": "Radical: aim- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je aimais souvent.",
+            "Tu aimais bien.",
+            "Nous aimions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne aimais pas.",
+            "Tu ne aimais pas.",
+            "Nous ne aimions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais aimer",
+            "tu vas aimer",
+            "il/elle/on va aimer",
+            "nous allons aimer",
+            "vous allez aimer",
+            "ils/elles vont aimer"
+          ],
+          "negative": [
+            "je ne vais pas aimer",
+            "tu ne vas pas aimer",
+            "il/elle/on ne va pas aimer",
+            "nous n'allons pas aimer",
+            "vous n'allez pas aimer",
+            "ils/elles ne vont pas aimer"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais aimer.",
+            "Tu vas aimer ?",
+            "Nous allons aimer."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas aimer.",
+            "Tu ne vas pas aimer.",
+            "Nous n'allons pas aimer."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je aimerai",
+            "tu aimeras",
+            "il/elle/on aimera",
+            "nous aimerons",
+            "vous aimerez",
+            "ils/elles aimeront"
+          ],
+          "negative": [
+            "je ne aimerai pas",
+            "tu ne aimeras pas",
+            "il/elle/on ne aimera pas",
+            "nous ne aimerons pas",
+            "vous ne aimerez pas",
+            "ils/elles ne aimeront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je aimerai demain.",
+            "Tu aimeras ?",
+            "Nous aimerons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne aimerai pas.",
+            "Tu ne aimeras pas.",
+            "Nous ne aimerons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais aimé",
+            "tu avais aimé",
+            "il/elle/on avait aimé",
+            "nous avions aimé",
+            "vous aviez aimé",
+            "ils/elles avaient aimé"
+          ],
+          "negative": [
+            "je n'avais pas aimé",
+            "tu n'avais pas aimé",
+            "il/elle/on n'avait pas aimé",
+            "nous n'avions pas aimé",
+            "vous n'aviez pas aimé",
+            "ils/elles n'avaient pas aimé"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais aimé avant.",
+            "Tu avais aimé ?",
+            "Nous avions aimé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas aimé.",
+            "Tu n'avais pas aimé.",
+            "Nous n'avions pas aimé."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je aimerais",
+            "tu aimerais",
+            "il/elle/on aimerait",
+            "nous aimerions",
+            "vous aimeriez",
+            "ils/elles aimeraient"
+          ],
+          "negative": [
+            "je ne aimerais pas",
+            "tu ne aimerais pas",
+            "il/elle/on ne aimerait pas",
+            "nous ne aimerions pas",
+            "vous ne aimeriez pas",
+            "ils/elles ne aimeraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je aimerais bien.",
+            "Tu aimerais ?",
+            "Nous aimerions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne aimerais pas.",
+            "Tu ne aimerais pas.",
+            "Nous ne aimerions pas."
+          ]
+        }
+      }
+    },
+    "manger": {
+      "fr": "manger",
+      "variants": [
+        "remanger"
+      ],
+      "en": [
+        "eat"
+      ],
+      "es": [
+        "comer"
+      ],
+      "pt": [
+        "comer"
+      ],
+      "it": [
+        "mangiare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je mange",
+            "tu manges",
+            "il/elle/on mange",
+            "nous mangons",
+            "vous mangez",
+            "ils/elles mangent"
+          ],
+          "negative": [
+            "je ne mange pas",
+            "tu ne manges pas",
+            "il/elle/on ne mange pas",
+            "nous ne mangons pas",
+            "vous ne mangez pas",
+            "ils/elles ne mangent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je mange souvent.",
+            "Tu manges bien.",
+            "Nous mangons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne mange pas.",
+            "Tu ne manges pas.",
+            "Nous ne mangons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai mangé",
+            "tu as mangé",
+            "il/elle/on a mangé",
+            "nous avons mangé",
+            "vous avez mangé",
+            "ils/elles ont mangé"
+          ],
+          "negative": [
+            "je n'ai pas mangé",
+            "tu n'as pas mangé",
+            "il/elle/on n'a pas mangé",
+            "nous n'avons pas mangé",
+            "vous n'avez pas mangé",
+            "ils/elles n'ont pas mangé"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai mangé hier.",
+            "Tu as mangé quoi ?",
+            "Nous avons mangé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas mangé.",
+            "Tu n'as pas mangé.",
+            "Nous n'avons pas mangé."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je mangais",
+            "tu mangais",
+            "il/elle/on mangait",
+            "nous mangions",
+            "vous mangiez",
+            "ils/elles mangaient"
+          ],
+          "negative": [
+            "je ne mangais pas",
+            "tu ne mangais pas",
+            "il/elle/on ne mangait pas",
+            "nous ne mangions pas",
+            "vous ne mangiez pas",
+            "ils/elles ne mangaient pas"
+          ],
+          "tip": "Radical: mang- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je mangais souvent.",
+            "Tu mangais bien.",
+            "Nous mangions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne mangais pas.",
+            "Tu ne mangais pas.",
+            "Nous ne mangions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais manger",
+            "tu vas manger",
+            "il/elle/on va manger",
+            "nous allons manger",
+            "vous allez manger",
+            "ils/elles vont manger"
+          ],
+          "negative": [
+            "je ne vais pas manger",
+            "tu ne vas pas manger",
+            "il/elle/on ne va pas manger",
+            "nous n'allons pas manger",
+            "vous n'allez pas manger",
+            "ils/elles ne vont pas manger"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais manger.",
+            "Tu vas manger ?",
+            "Nous allons manger."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas manger.",
+            "Tu ne vas pas manger.",
+            "Nous n'allons pas manger."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je mangerai",
+            "tu mangeras",
+            "il/elle/on mangera",
+            "nous mangerons",
+            "vous mangerez",
+            "ils/elles mangeront"
+          ],
+          "negative": [
+            "je ne mangerai pas",
+            "tu ne mangeras pas",
+            "il/elle/on ne mangera pas",
+            "nous ne mangerons pas",
+            "vous ne mangerez pas",
+            "ils/elles ne mangeront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je mangerai demain.",
+            "Tu mangeras ?",
+            "Nous mangerons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne mangerai pas.",
+            "Tu ne mangeras pas.",
+            "Nous ne mangerons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais mangé",
+            "tu avais mangé",
+            "il/elle/on avait mangé",
+            "nous avions mangé",
+            "vous aviez mangé",
+            "ils/elles avaient mangé"
+          ],
+          "negative": [
+            "je n'avais pas mangé",
+            "tu n'avais pas mangé",
+            "il/elle/on n'avait pas mangé",
+            "nous n'avions pas mangé",
+            "vous n'aviez pas mangé",
+            "ils/elles n'avaient pas mangé"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais mangé avant.",
+            "Tu avais mangé ?",
+            "Nous avions mangé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas mangé.",
+            "Tu n'avais pas mangé.",
+            "Nous n'avions pas mangé."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je mangerais",
+            "tu mangerais",
+            "il/elle/on mangerait",
+            "nous mangerions",
+            "vous mangeriez",
+            "ils/elles mangeraient"
+          ],
+          "negative": [
+            "je ne mangerais pas",
+            "tu ne mangerais pas",
+            "il/elle/on ne mangerait pas",
+            "nous ne mangerions pas",
+            "vous ne mangeriez pas",
+            "ils/elles ne mangeraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je mangerais bien.",
+            "Tu mangerais ?",
+            "Nous mangerions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne mangerais pas.",
+            "Tu ne mangerais pas.",
+            "Nous ne mangerions pas."
+          ]
+        }
+      }
+    },
+    "travailler": {
+      "fr": "travailler",
+      "variants": [
+        "retravailler"
+      ],
+      "en": [
+        "work"
+      ],
+      "es": [
+        "trabajar"
+      ],
+      "pt": [
+        "trabalhar"
+      ],
+      "it": [
+        "lavorare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je travaille",
+            "tu travailles",
+            "il/elle/on travaille",
+            "nous travaillons",
+            "vous travaillez",
+            "ils/elles travaillent"
+          ],
+          "negative": [
+            "je ne travaille pas",
+            "tu ne travailles pas",
+            "il/elle/on ne travaille pas",
+            "nous ne travaillons pas",
+            "vous ne travaillez pas",
+            "ils/elles ne travaillent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je travaille souvent.",
+            "Tu travailles bien.",
+            "Nous travaillons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne travaille pas.",
+            "Tu ne travailles pas.",
+            "Nous ne travaillons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai travaillé",
+            "tu as travaillé",
+            "il/elle/on a travaillé",
+            "nous avons travaillé",
+            "vous avez travaillé",
+            "ils/elles ont travaillé"
+          ],
+          "negative": [
+            "je n'ai pas travaillé",
+            "tu n'as pas travaillé",
+            "il/elle/on n'a pas travaillé",
+            "nous n'avons pas travaillé",
+            "vous n'avez pas travaillé",
+            "ils/elles n'ont pas travaillé"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai travaillé hier.",
+            "Tu as travaillé quoi ?",
+            "Nous avons travaillé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas travaillé.",
+            "Tu n'as pas travaillé.",
+            "Nous n'avons pas travaillé."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je travaillais",
+            "tu travaillais",
+            "il/elle/on travaillait",
+            "nous travaillions",
+            "vous travailliez",
+            "ils/elles travaillaient"
+          ],
+          "negative": [
+            "je ne travaillais pas",
+            "tu ne travaillais pas",
+            "il/elle/on ne travaillait pas",
+            "nous ne travaillions pas",
+            "vous ne travailliez pas",
+            "ils/elles ne travaillaient pas"
+          ],
+          "tip": "Radical: travaill- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je travaillais souvent.",
+            "Tu travaillais bien.",
+            "Nous travaillions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne travaillais pas.",
+            "Tu ne travaillais pas.",
+            "Nous ne travaillions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais travailler",
+            "tu vas travailler",
+            "il/elle/on va travailler",
+            "nous allons travailler",
+            "vous allez travailler",
+            "ils/elles vont travailler"
+          ],
+          "negative": [
+            "je ne vais pas travailler",
+            "tu ne vas pas travailler",
+            "il/elle/on ne va pas travailler",
+            "nous n'allons pas travailler",
+            "vous n'allez pas travailler",
+            "ils/elles ne vont pas travailler"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais travailler.",
+            "Tu vas travailler ?",
+            "Nous allons travailler."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas travailler.",
+            "Tu ne vas pas travailler.",
+            "Nous n'allons pas travailler."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je travaillerai",
+            "tu travailleras",
+            "il/elle/on travaillera",
+            "nous travaillerons",
+            "vous travaillerez",
+            "ils/elles travailleront"
+          ],
+          "negative": [
+            "je ne travaillerai pas",
+            "tu ne travailleras pas",
+            "il/elle/on ne travaillera pas",
+            "nous ne travaillerons pas",
+            "vous ne travaillerez pas",
+            "ils/elles ne travailleront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je travaillerai demain.",
+            "Tu travailleras ?",
+            "Nous travaillerons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne travaillerai pas.",
+            "Tu ne travailleras pas.",
+            "Nous ne travaillerons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais travaillé",
+            "tu avais travaillé",
+            "il/elle/on avait travaillé",
+            "nous avions travaillé",
+            "vous aviez travaillé",
+            "ils/elles avaient travaillé"
+          ],
+          "negative": [
+            "je n'avais pas travaillé",
+            "tu n'avais pas travaillé",
+            "il/elle/on n'avait pas travaillé",
+            "nous n'avions pas travaillé",
+            "vous n'aviez pas travaillé",
+            "ils/elles n'avaient pas travaillé"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais travaillé avant.",
+            "Tu avais travaillé ?",
+            "Nous avions travaillé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas travaillé.",
+            "Tu n'avais pas travaillé.",
+            "Nous n'avions pas travaillé."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je travaillerais",
+            "tu travaillerais",
+            "il/elle/on travaillerait",
+            "nous travaillerions",
+            "vous travailleriez",
+            "ils/elles travailleraient"
+          ],
+          "negative": [
+            "je ne travaillerais pas",
+            "tu ne travaillerais pas",
+            "il/elle/on ne travaillerait pas",
+            "nous ne travaillerions pas",
+            "vous ne travailleriez pas",
+            "ils/elles ne travailleraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je travaillerais bien.",
+            "Tu travaillerais ?",
+            "Nous travaillerions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne travaillerais pas.",
+            "Tu ne travaillerais pas.",
+            "Nous ne travaillerions pas."
+          ]
+        }
+      }
+    },
+    "étudier": {
+      "fr": "étudier",
+      "variants": [
+        "réétudier"
+      ],
+      "en": [
+        "study"
+      ],
+      "es": [
+        "estudiar"
+      ],
+      "pt": [
+        "estudar"
+      ],
+      "it": [
+        "studiare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je étudie",
+            "tu étudies",
+            "il/elle/on étudie",
+            "nous étudions",
+            "vous étudiez",
+            "ils/elles étudient"
+          ],
+          "negative": [
+            "je ne étudie pas",
+            "tu ne étudies pas",
+            "il/elle/on ne étudie pas",
+            "nous ne étudions pas",
+            "vous ne étudiez pas",
+            "ils/elles ne étudient pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je étudie souvent.",
+            "Tu étudies bien.",
+            "Nous étudions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne étudie pas.",
+            "Tu ne étudies pas.",
+            "Nous ne étudions pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai étudié",
+            "tu as étudié",
+            "il/elle/on a étudié",
+            "nous avons étudié",
+            "vous avez étudié",
+            "ils/elles ont étudié"
+          ],
+          "negative": [
+            "je n'ai pas étudié",
+            "tu n'as pas étudié",
+            "il/elle/on n'a pas étudié",
+            "nous n'avons pas étudié",
+            "vous n'avez pas étudié",
+            "ils/elles n'ont pas étudié"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai étudié hier.",
+            "Tu as étudié quoi ?",
+            "Nous avons étudié ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas étudié.",
+            "Tu n'as pas étudié.",
+            "Nous n'avons pas étudié."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je étudiais",
+            "tu étudiais",
+            "il/elle/on étudiait",
+            "nous étudiions",
+            "vous étudiiez",
+            "ils/elles étudiaient"
+          ],
+          "negative": [
+            "je ne étudiais pas",
+            "tu ne étudiais pas",
+            "il/elle/on ne étudiait pas",
+            "nous ne étudiions pas",
+            "vous ne étudiiez pas",
+            "ils/elles ne étudiaient pas"
+          ],
+          "tip": "Radical: étudi- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je étudiais souvent.",
+            "Tu étudiais bien.",
+            "Nous étudiions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne étudiais pas.",
+            "Tu ne étudiais pas.",
+            "Nous ne étudiions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais étudier",
+            "tu vas étudier",
+            "il/elle/on va étudier",
+            "nous allons étudier",
+            "vous allez étudier",
+            "ils/elles vont étudier"
+          ],
+          "negative": [
+            "je ne vais pas étudier",
+            "tu ne vas pas étudier",
+            "il/elle/on ne va pas étudier",
+            "nous n'allons pas étudier",
+            "vous n'allez pas étudier",
+            "ils/elles ne vont pas étudier"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais étudier.",
+            "Tu vas étudier ?",
+            "Nous allons étudier."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas étudier.",
+            "Tu ne vas pas étudier.",
+            "Nous n'allons pas étudier."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je étudierai",
+            "tu étudieras",
+            "il/elle/on étudiera",
+            "nous étudierons",
+            "vous étudierez",
+            "ils/elles étudieront"
+          ],
+          "negative": [
+            "je ne étudierai pas",
+            "tu ne étudieras pas",
+            "il/elle/on ne étudiera pas",
+            "nous ne étudierons pas",
+            "vous ne étudierez pas",
+            "ils/elles ne étudieront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je étudierai demain.",
+            "Tu étudieras ?",
+            "Nous étudierons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne étudierai pas.",
+            "Tu ne étudieras pas.",
+            "Nous ne étudierons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais étudié",
+            "tu avais étudié",
+            "il/elle/on avait étudié",
+            "nous avions étudié",
+            "vous aviez étudié",
+            "ils/elles avaient étudié"
+          ],
+          "negative": [
+            "je n'avais pas étudié",
+            "tu n'avais pas étudié",
+            "il/elle/on n'avait pas étudié",
+            "nous n'avions pas étudié",
+            "vous n'aviez pas étudié",
+            "ils/elles n'avaient pas étudié"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais étudié avant.",
+            "Tu avais étudié ?",
+            "Nous avions étudié ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas étudié.",
+            "Tu n'avais pas étudié.",
+            "Nous n'avions pas étudié."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je étudierais",
+            "tu étudierais",
+            "il/elle/on étudierait",
+            "nous étudierions",
+            "vous étudieriez",
+            "ils/elles étudieraient"
+          ],
+          "negative": [
+            "je ne étudierais pas",
+            "tu ne étudierais pas",
+            "il/elle/on ne étudierait pas",
+            "nous ne étudierions pas",
+            "vous ne étudieriez pas",
+            "ils/elles ne étudieraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je étudierais bien.",
+            "Tu étudierais ?",
+            "Nous étudierions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne étudierais pas.",
+            "Tu ne étudierais pas.",
+            "Nous ne étudierions pas."
+          ]
+        }
+      }
+    },
+    "habiter": {
+      "fr": "habiter",
+      "variants": [
+        "cohabiter"
+      ],
+      "en": [
+        "live"
+      ],
+      "es": [
+        "vivir",
+        "habitar"
+      ],
+      "pt": [
+        "morar"
+      ],
+      "it": [
+        "abitare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je habite",
+            "tu habites",
+            "il/elle/on habite",
+            "nous habitons",
+            "vous habitez",
+            "ils/elles habitent"
+          ],
+          "negative": [
+            "je ne habite pas",
+            "tu ne habites pas",
+            "il/elle/on ne habite pas",
+            "nous ne habitons pas",
+            "vous ne habitez pas",
+            "ils/elles ne habitent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je habite souvent.",
+            "Tu habites bien.",
+            "Nous habitons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne habite pas.",
+            "Tu ne habites pas.",
+            "Nous ne habitons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai habité",
+            "tu as habité",
+            "il/elle/on a habité",
+            "nous avons habité",
+            "vous avez habité",
+            "ils/elles ont habité"
+          ],
+          "negative": [
+            "je n'ai pas habité",
+            "tu n'as pas habité",
+            "il/elle/on n'a pas habité",
+            "nous n'avons pas habité",
+            "vous n'avez pas habité",
+            "ils/elles n'ont pas habité"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai habité hier.",
+            "Tu as habité quoi ?",
+            "Nous avons habité ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas habité.",
+            "Tu n'as pas habité.",
+            "Nous n'avons pas habité."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je habitais",
+            "tu habitais",
+            "il/elle/on habitait",
+            "nous habitions",
+            "vous habitiez",
+            "ils/elles habitaient"
+          ],
+          "negative": [
+            "je ne habitais pas",
+            "tu ne habitais pas",
+            "il/elle/on ne habitait pas",
+            "nous ne habitions pas",
+            "vous ne habitiez pas",
+            "ils/elles ne habitaient pas"
+          ],
+          "tip": "Radical: habit- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je habitais souvent.",
+            "Tu habitais bien.",
+            "Nous habitions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne habitais pas.",
+            "Tu ne habitais pas.",
+            "Nous ne habitions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais habiter",
+            "tu vas habiter",
+            "il/elle/on va habiter",
+            "nous allons habiter",
+            "vous allez habiter",
+            "ils/elles vont habiter"
+          ],
+          "negative": [
+            "je ne vais pas habiter",
+            "tu ne vas pas habiter",
+            "il/elle/on ne va pas habiter",
+            "nous n'allons pas habiter",
+            "vous n'allez pas habiter",
+            "ils/elles ne vont pas habiter"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais habiter.",
+            "Tu vas habiter ?",
+            "Nous allons habiter."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas habiter.",
+            "Tu ne vas pas habiter.",
+            "Nous n'allons pas habiter."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je habiterai",
+            "tu habiteras",
+            "il/elle/on habitera",
+            "nous habiterons",
+            "vous habiterez",
+            "ils/elles habiteront"
+          ],
+          "negative": [
+            "je ne habiterai pas",
+            "tu ne habiteras pas",
+            "il/elle/on ne habitera pas",
+            "nous ne habiterons pas",
+            "vous ne habiterez pas",
+            "ils/elles ne habiteront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je habiterai demain.",
+            "Tu habiteras ?",
+            "Nous habiterons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne habiterai pas.",
+            "Tu ne habiteras pas.",
+            "Nous ne habiterons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais habité",
+            "tu avais habité",
+            "il/elle/on avait habité",
+            "nous avions habité",
+            "vous aviez habité",
+            "ils/elles avaient habité"
+          ],
+          "negative": [
+            "je n'avais pas habité",
+            "tu n'avais pas habité",
+            "il/elle/on n'avait pas habité",
+            "nous n'avions pas habité",
+            "vous n'aviez pas habité",
+            "ils/elles n'avaient pas habité"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais habité avant.",
+            "Tu avais habité ?",
+            "Nous avions habité ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas habité.",
+            "Tu n'avais pas habité.",
+            "Nous n'avions pas habité."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je habiterais",
+            "tu habiterais",
+            "il/elle/on habiterait",
+            "nous habiterions",
+            "vous habiteriez",
+            "ils/elles habiteraient"
+          ],
+          "negative": [
+            "je ne habiterais pas",
+            "tu ne habiterais pas",
+            "il/elle/on ne habiterait pas",
+            "nous ne habiterions pas",
+            "vous ne habiteriez pas",
+            "ils/elles ne habiteraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je habiterais bien.",
+            "Tu habiterais ?",
+            "Nous habiterions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne habiterais pas.",
+            "Tu ne habiterais pas.",
+            "Nous ne habiterions pas."
+          ]
+        }
+      }
+    },
+    "chercher": {
+      "fr": "chercher",
+      "variants": [
+        "rechercher"
+      ],
+      "en": [
+        "search",
+        "look for"
+      ],
+      "es": [
+        "buscar"
+      ],
+      "pt": [
+        "procurar"
+      ],
+      "it": [
+        "cercare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je cherche",
+            "tu cherches",
+            "il/elle/on cherche",
+            "nous cherchons",
+            "vous cherchez",
+            "ils/elles cherchent"
+          ],
+          "negative": [
+            "je ne cherche pas",
+            "tu ne cherches pas",
+            "il/elle/on ne cherche pas",
+            "nous ne cherchons pas",
+            "vous ne cherchez pas",
+            "ils/elles ne cherchent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je cherche souvent.",
+            "Tu cherches bien.",
+            "Nous cherchons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne cherche pas.",
+            "Tu ne cherches pas.",
+            "Nous ne cherchons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai cherché",
+            "tu as cherché",
+            "il/elle/on a cherché",
+            "nous avons cherché",
+            "vous avez cherché",
+            "ils/elles ont cherché"
+          ],
+          "negative": [
+            "je n'ai pas cherché",
+            "tu n'as pas cherché",
+            "il/elle/on n'a pas cherché",
+            "nous n'avons pas cherché",
+            "vous n'avez pas cherché",
+            "ils/elles n'ont pas cherché"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai cherché hier.",
+            "Tu as cherché quoi ?",
+            "Nous avons cherché ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas cherché.",
+            "Tu n'as pas cherché.",
+            "Nous n'avons pas cherché."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je cherchais",
+            "tu cherchais",
+            "il/elle/on cherchait",
+            "nous cherchions",
+            "vous cherchiez",
+            "ils/elles cherchaient"
+          ],
+          "negative": [
+            "je ne cherchais pas",
+            "tu ne cherchais pas",
+            "il/elle/on ne cherchait pas",
+            "nous ne cherchions pas",
+            "vous ne cherchiez pas",
+            "ils/elles ne cherchaient pas"
+          ],
+          "tip": "Radical: cherch- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je cherchais souvent.",
+            "Tu cherchais bien.",
+            "Nous cherchions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne cherchais pas.",
+            "Tu ne cherchais pas.",
+            "Nous ne cherchions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais chercher",
+            "tu vas chercher",
+            "il/elle/on va chercher",
+            "nous allons chercher",
+            "vous allez chercher",
+            "ils/elles vont chercher"
+          ],
+          "negative": [
+            "je ne vais pas chercher",
+            "tu ne vas pas chercher",
+            "il/elle/on ne va pas chercher",
+            "nous n'allons pas chercher",
+            "vous n'allez pas chercher",
+            "ils/elles ne vont pas chercher"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais chercher.",
+            "Tu vas chercher ?",
+            "Nous allons chercher."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas chercher.",
+            "Tu ne vas pas chercher.",
+            "Nous n'allons pas chercher."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je chercherai",
+            "tu chercheras",
+            "il/elle/on cherchera",
+            "nous chercherons",
+            "vous chercherez",
+            "ils/elles chercheront"
+          ],
+          "negative": [
+            "je ne chercherai pas",
+            "tu ne chercheras pas",
+            "il/elle/on ne cherchera pas",
+            "nous ne chercherons pas",
+            "vous ne chercherez pas",
+            "ils/elles ne chercheront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je chercherai demain.",
+            "Tu chercheras ?",
+            "Nous chercherons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne chercherai pas.",
+            "Tu ne chercheras pas.",
+            "Nous ne chercherons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais cherché",
+            "tu avais cherché",
+            "il/elle/on avait cherché",
+            "nous avions cherché",
+            "vous aviez cherché",
+            "ils/elles avaient cherché"
+          ],
+          "negative": [
+            "je n'avais pas cherché",
+            "tu n'avais pas cherché",
+            "il/elle/on n'avait pas cherché",
+            "nous n'avions pas cherché",
+            "vous n'aviez pas cherché",
+            "ils/elles n'avaient pas cherché"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais cherché avant.",
+            "Tu avais cherché ?",
+            "Nous avions cherché ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas cherché.",
+            "Tu n'avais pas cherché.",
+            "Nous n'avions pas cherché."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je chercherais",
+            "tu chercherais",
+            "il/elle/on chercherait",
+            "nous chercherions",
+            "vous chercheriez",
+            "ils/elles chercheraient"
+          ],
+          "negative": [
+            "je ne chercherais pas",
+            "tu ne chercherais pas",
+            "il/elle/on ne chercherait pas",
+            "nous ne chercherions pas",
+            "vous ne chercheriez pas",
+            "ils/elles ne chercheraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je chercherais bien.",
+            "Tu chercherais ?",
+            "Nous chercherions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne chercherais pas.",
+            "Tu ne chercherais pas.",
+            "Nous ne chercherions pas."
+          ]
+        }
+      }
+    },
+    "regarder": {
+      "fr": "regarder",
+      "variants": [],
+      "en": [
+        "watch",
+        "look"
+      ],
+      "es": [
+        "mirar"
+      ],
+      "pt": [
+        "olhar"
+      ],
+      "it": [
+        "guardare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je regarde",
+            "tu regardes",
+            "il/elle/on regarde",
+            "nous regardons",
+            "vous regardez",
+            "ils/elles regardent"
+          ],
+          "negative": [
+            "je ne regarde pas",
+            "tu ne regardes pas",
+            "il/elle/on ne regarde pas",
+            "nous ne regardons pas",
+            "vous ne regardez pas",
+            "ils/elles ne regardent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je regarde souvent.",
+            "Tu regardes bien.",
+            "Nous regardons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne regarde pas.",
+            "Tu ne regardes pas.",
+            "Nous ne regardons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai regardé",
+            "tu as regardé",
+            "il/elle/on a regardé",
+            "nous avons regardé",
+            "vous avez regardé",
+            "ils/elles ont regardé"
+          ],
+          "negative": [
+            "je n'ai pas regardé",
+            "tu n'as pas regardé",
+            "il/elle/on n'a pas regardé",
+            "nous n'avons pas regardé",
+            "vous n'avez pas regardé",
+            "ils/elles n'ont pas regardé"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai regardé hier.",
+            "Tu as regardé quoi ?",
+            "Nous avons regardé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas regardé.",
+            "Tu n'as pas regardé.",
+            "Nous n'avons pas regardé."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je regardais",
+            "tu regardais",
+            "il/elle/on regardait",
+            "nous regardions",
+            "vous regardiez",
+            "ils/elles regardaient"
+          ],
+          "negative": [
+            "je ne regardais pas",
+            "tu ne regardais pas",
+            "il/elle/on ne regardait pas",
+            "nous ne regardions pas",
+            "vous ne regardiez pas",
+            "ils/elles ne regardaient pas"
+          ],
+          "tip": "Radical: regard- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je regardais souvent.",
+            "Tu regardais bien.",
+            "Nous regardions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne regardais pas.",
+            "Tu ne regardais pas.",
+            "Nous ne regardions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais regarder",
+            "tu vas regarder",
+            "il/elle/on va regarder",
+            "nous allons regarder",
+            "vous allez regarder",
+            "ils/elles vont regarder"
+          ],
+          "negative": [
+            "je ne vais pas regarder",
+            "tu ne vas pas regarder",
+            "il/elle/on ne va pas regarder",
+            "nous n'allons pas regarder",
+            "vous n'allez pas regarder",
+            "ils/elles ne vont pas regarder"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais regarder.",
+            "Tu vas regarder ?",
+            "Nous allons regarder."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas regarder.",
+            "Tu ne vas pas regarder.",
+            "Nous n'allons pas regarder."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je regarderai",
+            "tu regarderas",
+            "il/elle/on regardera",
+            "nous regarderons",
+            "vous regarderez",
+            "ils/elles regarderont"
+          ],
+          "negative": [
+            "je ne regarderai pas",
+            "tu ne regarderas pas",
+            "il/elle/on ne regardera pas",
+            "nous ne regarderons pas",
+            "vous ne regarderez pas",
+            "ils/elles ne regarderont pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je regarderai demain.",
+            "Tu regarderas ?",
+            "Nous regarderons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne regarderai pas.",
+            "Tu ne regarderas pas.",
+            "Nous ne regarderons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais regardé",
+            "tu avais regardé",
+            "il/elle/on avait regardé",
+            "nous avions regardé",
+            "vous aviez regardé",
+            "ils/elles avaient regardé"
+          ],
+          "negative": [
+            "je n'avais pas regardé",
+            "tu n'avais pas regardé",
+            "il/elle/on n'avait pas regardé",
+            "nous n'avions pas regardé",
+            "vous n'aviez pas regardé",
+            "ils/elles n'avaient pas regardé"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais regardé avant.",
+            "Tu avais regardé ?",
+            "Nous avions regardé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas regardé.",
+            "Tu n'avais pas regardé.",
+            "Nous n'avions pas regardé."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je regarderais",
+            "tu regarderais",
+            "il/elle/on regarderait",
+            "nous regarderions",
+            "vous regarderiez",
+            "ils/elles regarderaient"
+          ],
+          "negative": [
+            "je ne regarderais pas",
+            "tu ne regarderais pas",
+            "il/elle/on ne regarderait pas",
+            "nous ne regarderions pas",
+            "vous ne regarderiez pas",
+            "ils/elles ne regarderaient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je regarderais bien.",
+            "Tu regarderais ?",
+            "Nous regarderions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne regarderais pas.",
+            "Tu ne regarderais pas.",
+            "Nous ne regarderions pas."
+          ]
+        }
+      }
+    },
+    "écouter": {
+      "fr": "écouter",
+      "variants": [
+        "réécouter"
+      ],
+      "en": [
+        "listen"
+      ],
+      "es": [
+        "escuchar"
+      ],
+      "pt": [
+        "escutar"
+      ],
+      "it": [
+        "ascoltare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je écoute",
+            "tu écoutes",
+            "il/elle/on écoute",
+            "nous écoutons",
+            "vous écoutez",
+            "ils/elles écoutent"
+          ],
+          "negative": [
+            "je ne écoute pas",
+            "tu ne écoutes pas",
+            "il/elle/on ne écoute pas",
+            "nous ne écoutons pas",
+            "vous ne écoutez pas",
+            "ils/elles ne écoutent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je écoute souvent.",
+            "Tu écoutes bien.",
+            "Nous écoutons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne écoute pas.",
+            "Tu ne écoutes pas.",
+            "Nous ne écoutons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai écouté",
+            "tu as écouté",
+            "il/elle/on a écouté",
+            "nous avons écouté",
+            "vous avez écouté",
+            "ils/elles ont écouté"
+          ],
+          "negative": [
+            "je n'ai pas écouté",
+            "tu n'as pas écouté",
+            "il/elle/on n'a pas écouté",
+            "nous n'avons pas écouté",
+            "vous n'avez pas écouté",
+            "ils/elles n'ont pas écouté"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai écouté hier.",
+            "Tu as écouté quoi ?",
+            "Nous avons écouté ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas écouté.",
+            "Tu n'as pas écouté.",
+            "Nous n'avons pas écouté."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je écoutais",
+            "tu écoutais",
+            "il/elle/on écoutait",
+            "nous écoutions",
+            "vous écoutiez",
+            "ils/elles écoutaient"
+          ],
+          "negative": [
+            "je ne écoutais pas",
+            "tu ne écoutais pas",
+            "il/elle/on ne écoutait pas",
+            "nous ne écoutions pas",
+            "vous ne écoutiez pas",
+            "ils/elles ne écoutaient pas"
+          ],
+          "tip": "Radical: écout- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je écoutais souvent.",
+            "Tu écoutais bien.",
+            "Nous écoutions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne écoutais pas.",
+            "Tu ne écoutais pas.",
+            "Nous ne écoutions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais écouter",
+            "tu vas écouter",
+            "il/elle/on va écouter",
+            "nous allons écouter",
+            "vous allez écouter",
+            "ils/elles vont écouter"
+          ],
+          "negative": [
+            "je ne vais pas écouter",
+            "tu ne vas pas écouter",
+            "il/elle/on ne va pas écouter",
+            "nous n'allons pas écouter",
+            "vous n'allez pas écouter",
+            "ils/elles ne vont pas écouter"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais écouter.",
+            "Tu vas écouter ?",
+            "Nous allons écouter."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas écouter.",
+            "Tu ne vas pas écouter.",
+            "Nous n'allons pas écouter."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je écouterai",
+            "tu écouteras",
+            "il/elle/on écoutera",
+            "nous écouterons",
+            "vous écouterez",
+            "ils/elles écouteront"
+          ],
+          "negative": [
+            "je ne écouterai pas",
+            "tu ne écouteras pas",
+            "il/elle/on ne écoutera pas",
+            "nous ne écouterons pas",
+            "vous ne écouterez pas",
+            "ils/elles ne écouteront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je écouterai demain.",
+            "Tu écouteras ?",
+            "Nous écouterons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne écouterai pas.",
+            "Tu ne écouteras pas.",
+            "Nous ne écouterons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais écouté",
+            "tu avais écouté",
+            "il/elle/on avait écouté",
+            "nous avions écouté",
+            "vous aviez écouté",
+            "ils/elles avaient écouté"
+          ],
+          "negative": [
+            "je n'avais pas écouté",
+            "tu n'avais pas écouté",
+            "il/elle/on n'avait pas écouté",
+            "nous n'avions pas écouté",
+            "vous n'aviez pas écouté",
+            "ils/elles n'avaient pas écouté"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais écouté avant.",
+            "Tu avais écouté ?",
+            "Nous avions écouté ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas écouté.",
+            "Tu n'avais pas écouté.",
+            "Nous n'avions pas écouté."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je écouterais",
+            "tu écouterais",
+            "il/elle/on écouterait",
+            "nous écouterions",
+            "vous écouteriez",
+            "ils/elles écouteraient"
+          ],
+          "negative": [
+            "je ne écouterais pas",
+            "tu ne écouterais pas",
+            "il/elle/on ne écouterait pas",
+            "nous ne écouterions pas",
+            "vous ne écouteriez pas",
+            "ils/elles ne écouteraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je écouterais bien.",
+            "Tu écouterais ?",
+            "Nous écouterions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne écouterais pas.",
+            "Tu ne écouterais pas.",
+            "Nous ne écouterions pas."
+          ]
+        }
+      }
+    },
+    "donner": {
+      "fr": "donner",
+      "variants": [
+        "redonner"
+      ],
+      "en": [
+        "give"
+      ],
+      "es": [
+        "dar"
+      ],
+      "pt": [
+        "dar"
+      ],
+      "it": [
+        "dare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je donne",
+            "tu donnes",
+            "il/elle/on donne",
+            "nous donnons",
+            "vous donnez",
+            "ils/elles donnent"
+          ],
+          "negative": [
+            "je ne donne pas",
+            "tu ne donnes pas",
+            "il/elle/on ne donne pas",
+            "nous ne donnons pas",
+            "vous ne donnez pas",
+            "ils/elles ne donnent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je donne souvent.",
+            "Tu donnes bien.",
+            "Nous donnons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne donne pas.",
+            "Tu ne donnes pas.",
+            "Nous ne donnons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai donné",
+            "tu as donné",
+            "il/elle/on a donné",
+            "nous avons donné",
+            "vous avez donné",
+            "ils/elles ont donné"
+          ],
+          "negative": [
+            "je n'ai pas donné",
+            "tu n'as pas donné",
+            "il/elle/on n'a pas donné",
+            "nous n'avons pas donné",
+            "vous n'avez pas donné",
+            "ils/elles n'ont pas donné"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai donné hier.",
+            "Tu as donné quoi ?",
+            "Nous avons donné ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas donné.",
+            "Tu n'as pas donné.",
+            "Nous n'avons pas donné."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je donnais",
+            "tu donnais",
+            "il/elle/on donnait",
+            "nous donnions",
+            "vous donniez",
+            "ils/elles donnaient"
+          ],
+          "negative": [
+            "je ne donnais pas",
+            "tu ne donnais pas",
+            "il/elle/on ne donnait pas",
+            "nous ne donnions pas",
+            "vous ne donniez pas",
+            "ils/elles ne donnaient pas"
+          ],
+          "tip": "Radical: donn- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je donnais souvent.",
+            "Tu donnais bien.",
+            "Nous donnions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne donnais pas.",
+            "Tu ne donnais pas.",
+            "Nous ne donnions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais donner",
+            "tu vas donner",
+            "il/elle/on va donner",
+            "nous allons donner",
+            "vous allez donner",
+            "ils/elles vont donner"
+          ],
+          "negative": [
+            "je ne vais pas donner",
+            "tu ne vas pas donner",
+            "il/elle/on ne va pas donner",
+            "nous n'allons pas donner",
+            "vous n'allez pas donner",
+            "ils/elles ne vont pas donner"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais donner.",
+            "Tu vas donner ?",
+            "Nous allons donner."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas donner.",
+            "Tu ne vas pas donner.",
+            "Nous n'allons pas donner."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je donnerai",
+            "tu donneras",
+            "il/elle/on donnera",
+            "nous donnerons",
+            "vous donnerez",
+            "ils/elles donneront"
+          ],
+          "negative": [
+            "je ne donnerai pas",
+            "tu ne donneras pas",
+            "il/elle/on ne donnera pas",
+            "nous ne donnerons pas",
+            "vous ne donnerez pas",
+            "ils/elles ne donneront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je donnerai demain.",
+            "Tu donneras ?",
+            "Nous donnerons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne donnerai pas.",
+            "Tu ne donneras pas.",
+            "Nous ne donnerons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais donné",
+            "tu avais donné",
+            "il/elle/on avait donné",
+            "nous avions donné",
+            "vous aviez donné",
+            "ils/elles avaient donné"
+          ],
+          "negative": [
+            "je n'avais pas donné",
+            "tu n'avais pas donné",
+            "il/elle/on n'avait pas donné",
+            "nous n'avions pas donné",
+            "vous n'aviez pas donné",
+            "ils/elles n'avaient pas donné"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais donné avant.",
+            "Tu avais donné ?",
+            "Nous avions donné ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas donné.",
+            "Tu n'avais pas donné.",
+            "Nous n'avions pas donné."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je donnerais",
+            "tu donnerais",
+            "il/elle/on donnerait",
+            "nous donnerions",
+            "vous donneriez",
+            "ils/elles donneraient"
+          ],
+          "negative": [
+            "je ne donnerais pas",
+            "tu ne donnerais pas",
+            "il/elle/on ne donnerait pas",
+            "nous ne donnerions pas",
+            "vous ne donneriez pas",
+            "ils/elles ne donneraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je donnerais bien.",
+            "Tu donnerais ?",
+            "Nous donnerions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne donnerais pas.",
+            "Tu ne donnerais pas.",
+            "Nous ne donnerions pas."
+          ]
+        }
+      }
+    },
+    "penser": {
+      "fr": "penser",
+      "variants": [
+        "repenser"
+      ],
+      "en": [
+        "think"
+      ],
+      "es": [
+        "pensar"
+      ],
+      "pt": [
+        "pensar"
+      ],
+      "it": [
+        "pensare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je pense",
+            "tu penses",
+            "il/elle/on pense",
+            "nous pensons",
+            "vous pensez",
+            "ils/elles pensent"
+          ],
+          "negative": [
+            "je ne pense pas",
+            "tu ne penses pas",
+            "il/elle/on ne pense pas",
+            "nous ne pensons pas",
+            "vous ne pensez pas",
+            "ils/elles ne pensent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je pense souvent.",
+            "Tu penses bien.",
+            "Nous pensons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne pense pas.",
+            "Tu ne penses pas.",
+            "Nous ne pensons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai pensé",
+            "tu as pensé",
+            "il/elle/on a pensé",
+            "nous avons pensé",
+            "vous avez pensé",
+            "ils/elles ont pensé"
+          ],
+          "negative": [
+            "je n'ai pas pensé",
+            "tu n'as pas pensé",
+            "il/elle/on n'a pas pensé",
+            "nous n'avons pas pensé",
+            "vous n'avez pas pensé",
+            "ils/elles n'ont pas pensé"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai pensé hier.",
+            "Tu as pensé quoi ?",
+            "Nous avons pensé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas pensé.",
+            "Tu n'as pas pensé.",
+            "Nous n'avons pas pensé."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je pensais",
+            "tu pensais",
+            "il/elle/on pensait",
+            "nous pensions",
+            "vous pensiez",
+            "ils/elles pensaient"
+          ],
+          "negative": [
+            "je ne pensais pas",
+            "tu ne pensais pas",
+            "il/elle/on ne pensait pas",
+            "nous ne pensions pas",
+            "vous ne pensiez pas",
+            "ils/elles ne pensaient pas"
+          ],
+          "tip": "Radical: pens- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je pensais souvent.",
+            "Tu pensais bien.",
+            "Nous pensions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne pensais pas.",
+            "Tu ne pensais pas.",
+            "Nous ne pensions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais penser",
+            "tu vas penser",
+            "il/elle/on va penser",
+            "nous allons penser",
+            "vous allez penser",
+            "ils/elles vont penser"
+          ],
+          "negative": [
+            "je ne vais pas penser",
+            "tu ne vas pas penser",
+            "il/elle/on ne va pas penser",
+            "nous n'allons pas penser",
+            "vous n'allez pas penser",
+            "ils/elles ne vont pas penser"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais penser.",
+            "Tu vas penser ?",
+            "Nous allons penser."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas penser.",
+            "Tu ne vas pas penser.",
+            "Nous n'allons pas penser."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je penserai",
+            "tu penseras",
+            "il/elle/on pensera",
+            "nous penserons",
+            "vous penserez",
+            "ils/elles penseront"
+          ],
+          "negative": [
+            "je ne penserai pas",
+            "tu ne penseras pas",
+            "il/elle/on ne pensera pas",
+            "nous ne penserons pas",
+            "vous ne penserez pas",
+            "ils/elles ne penseront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je penserai demain.",
+            "Tu penseras ?",
+            "Nous penserons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne penserai pas.",
+            "Tu ne penseras pas.",
+            "Nous ne penserons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais pensé",
+            "tu avais pensé",
+            "il/elle/on avait pensé",
+            "nous avions pensé",
+            "vous aviez pensé",
+            "ils/elles avaient pensé"
+          ],
+          "negative": [
+            "je n'avais pas pensé",
+            "tu n'avais pas pensé",
+            "il/elle/on n'avait pas pensé",
+            "nous n'avions pas pensé",
+            "vous n'aviez pas pensé",
+            "ils/elles n'avaient pas pensé"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais pensé avant.",
+            "Tu avais pensé ?",
+            "Nous avions pensé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas pensé.",
+            "Tu n'avais pas pensé.",
+            "Nous n'avions pas pensé."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je penserais",
+            "tu penserais",
+            "il/elle/on penserait",
+            "nous penserions",
+            "vous penseriez",
+            "ils/elles penseraient"
+          ],
+          "negative": [
+            "je ne penserais pas",
+            "tu ne penserais pas",
+            "il/elle/on ne penserait pas",
+            "nous ne penserions pas",
+            "vous ne penseriez pas",
+            "ils/elles ne penseraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je penserais bien.",
+            "Tu penserais ?",
+            "Nous penserions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne penserais pas.",
+            "Tu ne penserais pas.",
+            "Nous ne penserions pas."
+          ]
+        }
+      }
+    },
+    "trouver": {
+      "fr": "trouver",
+      "variants": [
+        "retrouver"
+      ],
+      "en": [
+        "find"
+      ],
+      "es": [
+        "encontrar"
+      ],
+      "pt": [
+        "encontrar",
+        "achar"
+      ],
+      "it": [
+        "trovare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je trouve",
+            "tu trouves",
+            "il/elle/on trouve",
+            "nous trouvons",
+            "vous trouvez",
+            "ils/elles trouvent"
+          ],
+          "negative": [
+            "je ne trouve pas",
+            "tu ne trouves pas",
+            "il/elle/on ne trouve pas",
+            "nous ne trouvons pas",
+            "vous ne trouvez pas",
+            "ils/elles ne trouvent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je trouve souvent.",
+            "Tu trouves bien.",
+            "Nous trouvons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne trouve pas.",
+            "Tu ne trouves pas.",
+            "Nous ne trouvons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai trouvé",
+            "tu as trouvé",
+            "il/elle/on a trouvé",
+            "nous avons trouvé",
+            "vous avez trouvé",
+            "ils/elles ont trouvé"
+          ],
+          "negative": [
+            "je n'ai pas trouvé",
+            "tu n'as pas trouvé",
+            "il/elle/on n'a pas trouvé",
+            "nous n'avons pas trouvé",
+            "vous n'avez pas trouvé",
+            "ils/elles n'ont pas trouvé"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai trouvé hier.",
+            "Tu as trouvé quoi ?",
+            "Nous avons trouvé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas trouvé.",
+            "Tu n'as pas trouvé.",
+            "Nous n'avons pas trouvé."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je trouvais",
+            "tu trouvais",
+            "il/elle/on trouvait",
+            "nous trouvions",
+            "vous trouviez",
+            "ils/elles trouvaient"
+          ],
+          "negative": [
+            "je ne trouvais pas",
+            "tu ne trouvais pas",
+            "il/elle/on ne trouvait pas",
+            "nous ne trouvions pas",
+            "vous ne trouviez pas",
+            "ils/elles ne trouvaient pas"
+          ],
+          "tip": "Radical: trouv- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je trouvais souvent.",
+            "Tu trouvais bien.",
+            "Nous trouvions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne trouvais pas.",
+            "Tu ne trouvais pas.",
+            "Nous ne trouvions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais trouver",
+            "tu vas trouver",
+            "il/elle/on va trouver",
+            "nous allons trouver",
+            "vous allez trouver",
+            "ils/elles vont trouver"
+          ],
+          "negative": [
+            "je ne vais pas trouver",
+            "tu ne vas pas trouver",
+            "il/elle/on ne va pas trouver",
+            "nous n'allons pas trouver",
+            "vous n'allez pas trouver",
+            "ils/elles ne vont pas trouver"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais trouver.",
+            "Tu vas trouver ?",
+            "Nous allons trouver."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas trouver.",
+            "Tu ne vas pas trouver.",
+            "Nous n'allons pas trouver."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je trouverai",
+            "tu trouveras",
+            "il/elle/on trouvera",
+            "nous trouverons",
+            "vous trouverez",
+            "ils/elles trouveront"
+          ],
+          "negative": [
+            "je ne trouverai pas",
+            "tu ne trouveras pas",
+            "il/elle/on ne trouvera pas",
+            "nous ne trouverons pas",
+            "vous ne trouverez pas",
+            "ils/elles ne trouveront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je trouverai demain.",
+            "Tu trouveras ?",
+            "Nous trouverons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne trouverai pas.",
+            "Tu ne trouveras pas.",
+            "Nous ne trouverons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais trouvé",
+            "tu avais trouvé",
+            "il/elle/on avait trouvé",
+            "nous avions trouvé",
+            "vous aviez trouvé",
+            "ils/elles avaient trouvé"
+          ],
+          "negative": [
+            "je n'avais pas trouvé",
+            "tu n'avais pas trouvé",
+            "il/elle/on n'avait pas trouvé",
+            "nous n'avions pas trouvé",
+            "vous n'aviez pas trouvé",
+            "ils/elles n'avaient pas trouvé"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais trouvé avant.",
+            "Tu avais trouvé ?",
+            "Nous avions trouvé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas trouvé.",
+            "Tu n'avais pas trouvé.",
+            "Nous n'avions pas trouvé."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je trouverais",
+            "tu trouverais",
+            "il/elle/on trouverait",
+            "nous trouverions",
+            "vous trouveriez",
+            "ils/elles trouveraient"
+          ],
+          "negative": [
+            "je ne trouverais pas",
+            "tu ne trouverais pas",
+            "il/elle/on ne trouverait pas",
+            "nous ne trouverions pas",
+            "vous ne trouveriez pas",
+            "ils/elles ne trouveraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je trouverais bien.",
+            "Tu trouverais ?",
+            "Nous trouverions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne trouverais pas.",
+            "Tu ne trouverais pas.",
+            "Nous ne trouverions pas."
+          ]
+        }
+      }
+    },
+    "porter": {
+      "fr": "porter",
+      "variants": [
+        "apporter",
+        "rapporter",
+        "supporter",
+        "transporter",
+        "emporter"
+      ],
+      "en": [
+        "wear",
+        "carry"
+      ],
+      "es": [
+        "llevar"
+      ],
+      "pt": [
+        "usar",
+        "carregar"
+      ],
+      "it": [
+        "portare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je porte",
+            "tu portes",
+            "il/elle/on porte",
+            "nous portons",
+            "vous portez",
+            "ils/elles portent"
+          ],
+          "negative": [
+            "je ne porte pas",
+            "tu ne portes pas",
+            "il/elle/on ne porte pas",
+            "nous ne portons pas",
+            "vous ne portez pas",
+            "ils/elles ne portent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je porte souvent.",
+            "Tu portes bien.",
+            "Nous portons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne porte pas.",
+            "Tu ne portes pas.",
+            "Nous ne portons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai porté",
+            "tu as porté",
+            "il/elle/on a porté",
+            "nous avons porté",
+            "vous avez porté",
+            "ils/elles ont porté"
+          ],
+          "negative": [
+            "je n'ai pas porté",
+            "tu n'as pas porté",
+            "il/elle/on n'a pas porté",
+            "nous n'avons pas porté",
+            "vous n'avez pas porté",
+            "ils/elles n'ont pas porté"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai porté hier.",
+            "Tu as porté quoi ?",
+            "Nous avons porté ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas porté.",
+            "Tu n'as pas porté.",
+            "Nous n'avons pas porté."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je portais",
+            "tu portais",
+            "il/elle/on portait",
+            "nous portions",
+            "vous portiez",
+            "ils/elles portaient"
+          ],
+          "negative": [
+            "je ne portais pas",
+            "tu ne portais pas",
+            "il/elle/on ne portait pas",
+            "nous ne portions pas",
+            "vous ne portiez pas",
+            "ils/elles ne portaient pas"
+          ],
+          "tip": "Radical: port- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je portais souvent.",
+            "Tu portais bien.",
+            "Nous portions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne portais pas.",
+            "Tu ne portais pas.",
+            "Nous ne portions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais porter",
+            "tu vas porter",
+            "il/elle/on va porter",
+            "nous allons porter",
+            "vous allez porter",
+            "ils/elles vont porter"
+          ],
+          "negative": [
+            "je ne vais pas porter",
+            "tu ne vas pas porter",
+            "il/elle/on ne va pas porter",
+            "nous n'allons pas porter",
+            "vous n'allez pas porter",
+            "ils/elles ne vont pas porter"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais porter.",
+            "Tu vas porter ?",
+            "Nous allons porter."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas porter.",
+            "Tu ne vas pas porter.",
+            "Nous n'allons pas porter."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je porterai",
+            "tu porteras",
+            "il/elle/on portera",
+            "nous porterons",
+            "vous porterez",
+            "ils/elles porteront"
+          ],
+          "negative": [
+            "je ne porterai pas",
+            "tu ne porteras pas",
+            "il/elle/on ne portera pas",
+            "nous ne porterons pas",
+            "vous ne porterez pas",
+            "ils/elles ne porteront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je porterai demain.",
+            "Tu porteras ?",
+            "Nous porterons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne porterai pas.",
+            "Tu ne porteras pas.",
+            "Nous ne porterons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais porté",
+            "tu avais porté",
+            "il/elle/on avait porté",
+            "nous avions porté",
+            "vous aviez porté",
+            "ils/elles avaient porté"
+          ],
+          "negative": [
+            "je n'avais pas porté",
+            "tu n'avais pas porté",
+            "il/elle/on n'avait pas porté",
+            "nous n'avions pas porté",
+            "vous n'aviez pas porté",
+            "ils/elles n'avaient pas porté"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais porté avant.",
+            "Tu avais porté ?",
+            "Nous avions porté ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas porté.",
+            "Tu n'avais pas porté.",
+            "Nous n'avions pas porté."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je porterais",
+            "tu porterais",
+            "il/elle/on porterait",
+            "nous porterions",
+            "vous porteriez",
+            "ils/elles porteraient"
+          ],
+          "negative": [
+            "je ne porterais pas",
+            "tu ne porterais pas",
+            "il/elle/on ne porterait pas",
+            "nous ne porterions pas",
+            "vous ne porteriez pas",
+            "ils/elles ne porteraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je porterais bien.",
+            "Tu porterais ?",
+            "Nous porterions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne porterais pas.",
+            "Tu ne porterais pas.",
+            "Nous ne porterions pas."
+          ]
+        }
+      }
+    },
+    "passer": {
+      "fr": "passer",
+      "variants": [
+        "repasser",
+        "dépasser"
+      ],
+      "en": [
+        "pass",
+        "spend time"
+      ],
+      "es": [
+        "pasar"
+      ],
+      "pt": [
+        "passar"
+      ],
+      "it": [
+        "passare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je passe",
+            "tu passes",
+            "il/elle/on passe",
+            "nous passons",
+            "vous passez",
+            "ils/elles passent"
+          ],
+          "negative": [
+            "je ne passe pas",
+            "tu ne passes pas",
+            "il/elle/on ne passe pas",
+            "nous ne passons pas",
+            "vous ne passez pas",
+            "ils/elles ne passent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je passe souvent.",
+            "Tu passes bien.",
+            "Nous passons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne passe pas.",
+            "Tu ne passes pas.",
+            "Nous ne passons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai passé",
+            "tu as passé",
+            "il/elle/on a passé",
+            "nous avons passé",
+            "vous avez passé",
+            "ils/elles ont passé"
+          ],
+          "negative": [
+            "je n'ai pas passé",
+            "tu n'as pas passé",
+            "il/elle/on n'a pas passé",
+            "nous n'avons pas passé",
+            "vous n'avez pas passé",
+            "ils/elles n'ont pas passé"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai passé hier.",
+            "Tu as passé quoi ?",
+            "Nous avons passé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas passé.",
+            "Tu n'as pas passé.",
+            "Nous n'avons pas passé."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je passais",
+            "tu passais",
+            "il/elle/on passait",
+            "nous passions",
+            "vous passiez",
+            "ils/elles passaient"
+          ],
+          "negative": [
+            "je ne passais pas",
+            "tu ne passais pas",
+            "il/elle/on ne passait pas",
+            "nous ne passions pas",
+            "vous ne passiez pas",
+            "ils/elles ne passaient pas"
+          ],
+          "tip": "Radical: pass- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je passais souvent.",
+            "Tu passais bien.",
+            "Nous passions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne passais pas.",
+            "Tu ne passais pas.",
+            "Nous ne passions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais passer",
+            "tu vas passer",
+            "il/elle/on va passer",
+            "nous allons passer",
+            "vous allez passer",
+            "ils/elles vont passer"
+          ],
+          "negative": [
+            "je ne vais pas passer",
+            "tu ne vas pas passer",
+            "il/elle/on ne va pas passer",
+            "nous n'allons pas passer",
+            "vous n'allez pas passer",
+            "ils/elles ne vont pas passer"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais passer.",
+            "Tu vas passer ?",
+            "Nous allons passer."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas passer.",
+            "Tu ne vas pas passer.",
+            "Nous n'allons pas passer."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je passerai",
+            "tu passeras",
+            "il/elle/on passera",
+            "nous passerons",
+            "vous passerez",
+            "ils/elles passeront"
+          ],
+          "negative": [
+            "je ne passerai pas",
+            "tu ne passeras pas",
+            "il/elle/on ne passera pas",
+            "nous ne passerons pas",
+            "vous ne passerez pas",
+            "ils/elles ne passeront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je passerai demain.",
+            "Tu passeras ?",
+            "Nous passerons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne passerai pas.",
+            "Tu ne passeras pas.",
+            "Nous ne passerons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais passé",
+            "tu avais passé",
+            "il/elle/on avait passé",
+            "nous avions passé",
+            "vous aviez passé",
+            "ils/elles avaient passé"
+          ],
+          "negative": [
+            "je n'avais pas passé",
+            "tu n'avais pas passé",
+            "il/elle/on n'avait pas passé",
+            "nous n'avions pas passé",
+            "vous n'aviez pas passé",
+            "ils/elles n'avaient pas passé"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais passé avant.",
+            "Tu avais passé ?",
+            "Nous avions passé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas passé.",
+            "Tu n'avais pas passé.",
+            "Nous n'avions pas passé."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je passerais",
+            "tu passerais",
+            "il/elle/on passerait",
+            "nous passerions",
+            "vous passeriez",
+            "ils/elles passeraient"
+          ],
+          "negative": [
+            "je ne passerais pas",
+            "tu ne passerais pas",
+            "il/elle/on ne passerait pas",
+            "nous ne passerions pas",
+            "vous ne passeriez pas",
+            "ils/elles ne passeraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je passerais bien.",
+            "Tu passerais ?",
+            "Nous passerions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne passerais pas.",
+            "Tu ne passerais pas.",
+            "Nous ne passerions pas."
+          ]
+        }
+      }
+    },
+    "demander": {
+      "fr": "demander",
+      "variants": [
+        "redemander"
+      ],
+      "en": [
+        "ask"
+      ],
+      "es": [
+        "preguntar",
+        "pedir"
+      ],
+      "pt": [
+        "perguntar",
+        "pedir"
+      ],
+      "it": [
+        "domandare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je demande",
+            "tu demandes",
+            "il/elle/on demande",
+            "nous demandons",
+            "vous demandez",
+            "ils/elles demandent"
+          ],
+          "negative": [
+            "je ne demande pas",
+            "tu ne demandes pas",
+            "il/elle/on ne demande pas",
+            "nous ne demandons pas",
+            "vous ne demandez pas",
+            "ils/elles ne demandent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je demande souvent.",
+            "Tu demandes bien.",
+            "Nous demandons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne demande pas.",
+            "Tu ne demandes pas.",
+            "Nous ne demandons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai demandé",
+            "tu as demandé",
+            "il/elle/on a demandé",
+            "nous avons demandé",
+            "vous avez demandé",
+            "ils/elles ont demandé"
+          ],
+          "negative": [
+            "je n'ai pas demandé",
+            "tu n'as pas demandé",
+            "il/elle/on n'a pas demandé",
+            "nous n'avons pas demandé",
+            "vous n'avez pas demandé",
+            "ils/elles n'ont pas demandé"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai demandé hier.",
+            "Tu as demandé quoi ?",
+            "Nous avons demandé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas demandé.",
+            "Tu n'as pas demandé.",
+            "Nous n'avons pas demandé."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je demandais",
+            "tu demandais",
+            "il/elle/on demandait",
+            "nous demandions",
+            "vous demandiez",
+            "ils/elles demandaient"
+          ],
+          "negative": [
+            "je ne demandais pas",
+            "tu ne demandais pas",
+            "il/elle/on ne demandait pas",
+            "nous ne demandions pas",
+            "vous ne demandiez pas",
+            "ils/elles ne demandaient pas"
+          ],
+          "tip": "Radical: demand- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je demandais souvent.",
+            "Tu demandais bien.",
+            "Nous demandions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne demandais pas.",
+            "Tu ne demandais pas.",
+            "Nous ne demandions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais demander",
+            "tu vas demander",
+            "il/elle/on va demander",
+            "nous allons demander",
+            "vous allez demander",
+            "ils/elles vont demander"
+          ],
+          "negative": [
+            "je ne vais pas demander",
+            "tu ne vas pas demander",
+            "il/elle/on ne va pas demander",
+            "nous n'allons pas demander",
+            "vous n'allez pas demander",
+            "ils/elles ne vont pas demander"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais demander.",
+            "Tu vas demander ?",
+            "Nous allons demander."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas demander.",
+            "Tu ne vas pas demander.",
+            "Nous n'allons pas demander."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je demanderai",
+            "tu demanderas",
+            "il/elle/on demandera",
+            "nous demanderons",
+            "vous demanderez",
+            "ils/elles demanderont"
+          ],
+          "negative": [
+            "je ne demanderai pas",
+            "tu ne demanderas pas",
+            "il/elle/on ne demandera pas",
+            "nous ne demanderons pas",
+            "vous ne demanderez pas",
+            "ils/elles ne demanderont pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je demanderai demain.",
+            "Tu demanderas ?",
+            "Nous demanderons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne demanderai pas.",
+            "Tu ne demanderas pas.",
+            "Nous ne demanderons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais demandé",
+            "tu avais demandé",
+            "il/elle/on avait demandé",
+            "nous avions demandé",
+            "vous aviez demandé",
+            "ils/elles avaient demandé"
+          ],
+          "negative": [
+            "je n'avais pas demandé",
+            "tu n'avais pas demandé",
+            "il/elle/on n'avait pas demandé",
+            "nous n'avions pas demandé",
+            "vous n'aviez pas demandé",
+            "ils/elles n'avaient pas demandé"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais demandé avant.",
+            "Tu avais demandé ?",
+            "Nous avions demandé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas demandé.",
+            "Tu n'avais pas demandé.",
+            "Nous n'avions pas demandé."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je demanderais",
+            "tu demanderais",
+            "il/elle/on demanderait",
+            "nous demanderions",
+            "vous demanderiez",
+            "ils/elles demanderaient"
+          ],
+          "negative": [
+            "je ne demanderais pas",
+            "tu ne demanderais pas",
+            "il/elle/on ne demanderait pas",
+            "nous ne demanderions pas",
+            "vous ne demanderiez pas",
+            "ils/elles ne demanderaient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je demanderais bien.",
+            "Tu demanderais ?",
+            "Nous demanderions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne demanderais pas.",
+            "Tu ne demanderais pas.",
+            "Nous ne demanderions pas."
+          ]
+        }
+      }
+    },
+    "rester": {
+      "fr": "rester",
+      "variants": [],
+      "en": [
+        "stay"
+      ],
+      "es": [
+        "quedar"
+      ],
+      "pt": [
+        "ficar"
+      ],
+      "it": [
+        "restare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je reste",
+            "tu restes",
+            "il/elle/on reste",
+            "nous restons",
+            "vous restez",
+            "ils/elles restent"
+          ],
+          "negative": [
+            "je ne reste pas",
+            "tu ne restes pas",
+            "il/elle/on ne reste pas",
+            "nous ne restons pas",
+            "vous ne restez pas",
+            "ils/elles ne restent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je reste souvent.",
+            "Tu restes bien.",
+            "Nous restons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne reste pas.",
+            "Tu ne restes pas.",
+            "Nous ne restons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai resté",
+            "tu as resté",
+            "il/elle/on a resté",
+            "nous avons resté",
+            "vous avez resté",
+            "ils/elles ont resté"
+          ],
+          "negative": [
+            "je n'ai pas resté",
+            "tu n'as pas resté",
+            "il/elle/on n'a pas resté",
+            "nous n'avons pas resté",
+            "vous n'avez pas resté",
+            "ils/elles n'ont pas resté"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai resté hier.",
+            "Tu as resté quoi ?",
+            "Nous avons resté ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas resté.",
+            "Tu n'as pas resté.",
+            "Nous n'avons pas resté."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je restais",
+            "tu restais",
+            "il/elle/on restait",
+            "nous restions",
+            "vous restiez",
+            "ils/elles restaient"
+          ],
+          "negative": [
+            "je ne restais pas",
+            "tu ne restais pas",
+            "il/elle/on ne restait pas",
+            "nous ne restions pas",
+            "vous ne restiez pas",
+            "ils/elles ne restaient pas"
+          ],
+          "tip": "Radical: rest- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je restais souvent.",
+            "Tu restais bien.",
+            "Nous restions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne restais pas.",
+            "Tu ne restais pas.",
+            "Nous ne restions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais rester",
+            "tu vas rester",
+            "il/elle/on va rester",
+            "nous allons rester",
+            "vous allez rester",
+            "ils/elles vont rester"
+          ],
+          "negative": [
+            "je ne vais pas rester",
+            "tu ne vas pas rester",
+            "il/elle/on ne va pas rester",
+            "nous n'allons pas rester",
+            "vous n'allez pas rester",
+            "ils/elles ne vont pas rester"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais rester.",
+            "Tu vas rester ?",
+            "Nous allons rester."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas rester.",
+            "Tu ne vas pas rester.",
+            "Nous n'allons pas rester."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je resterai",
+            "tu resteras",
+            "il/elle/on restera",
+            "nous resterons",
+            "vous resterez",
+            "ils/elles resteront"
+          ],
+          "negative": [
+            "je ne resterai pas",
+            "tu ne resteras pas",
+            "il/elle/on ne restera pas",
+            "nous ne resterons pas",
+            "vous ne resterez pas",
+            "ils/elles ne resteront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je resterai demain.",
+            "Tu resteras ?",
+            "Nous resterons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne resterai pas.",
+            "Tu ne resteras pas.",
+            "Nous ne resterons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais resté",
+            "tu avais resté",
+            "il/elle/on avait resté",
+            "nous avions resté",
+            "vous aviez resté",
+            "ils/elles avaient resté"
+          ],
+          "negative": [
+            "je n'avais pas resté",
+            "tu n'avais pas resté",
+            "il/elle/on n'avait pas resté",
+            "nous n'avions pas resté",
+            "vous n'aviez pas resté",
+            "ils/elles n'avaient pas resté"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais resté avant.",
+            "Tu avais resté ?",
+            "Nous avions resté ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas resté.",
+            "Tu n'avais pas resté.",
+            "Nous n'avions pas resté."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je resterais",
+            "tu resterais",
+            "il/elle/on resterait",
+            "nous resterions",
+            "vous resteriez",
+            "ils/elles resteraient"
+          ],
+          "negative": [
+            "je ne resterais pas",
+            "tu ne resterais pas",
+            "il/elle/on ne resterait pas",
+            "nous ne resterions pas",
+            "vous ne resteriez pas",
+            "ils/elles ne resteraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je resterais bien.",
+            "Tu resterais ?",
+            "Nous resterions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne resterais pas.",
+            "Tu ne resterais pas.",
+            "Nous ne resterions pas."
+          ]
+        }
+      }
+    },
+    "montrer": {
+      "fr": "montrer",
+      "variants": [
+        "démontrer"
+      ],
+      "en": [
+        "show"
+      ],
+      "es": [
+        "mostrar"
+      ],
+      "pt": [
+        "mostrar"
+      ],
+      "it": [
+        "mostrare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je montre",
+            "tu montres",
+            "il/elle/on montre",
+            "nous montrons",
+            "vous montrez",
+            "ils/elles montrent"
+          ],
+          "negative": [
+            "je ne montre pas",
+            "tu ne montres pas",
+            "il/elle/on ne montre pas",
+            "nous ne montrons pas",
+            "vous ne montrez pas",
+            "ils/elles ne montrent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je montre souvent.",
+            "Tu montres bien.",
+            "Nous montrons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne montre pas.",
+            "Tu ne montres pas.",
+            "Nous ne montrons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai montré",
+            "tu as montré",
+            "il/elle/on a montré",
+            "nous avons montré",
+            "vous avez montré",
+            "ils/elles ont montré"
+          ],
+          "negative": [
+            "je n'ai pas montré",
+            "tu n'as pas montré",
+            "il/elle/on n'a pas montré",
+            "nous n'avons pas montré",
+            "vous n'avez pas montré",
+            "ils/elles n'ont pas montré"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai montré hier.",
+            "Tu as montré quoi ?",
+            "Nous avons montré ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas montré.",
+            "Tu n'as pas montré.",
+            "Nous n'avons pas montré."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je montrais",
+            "tu montrais",
+            "il/elle/on montrait",
+            "nous montrions",
+            "vous montriez",
+            "ils/elles montraient"
+          ],
+          "negative": [
+            "je ne montrais pas",
+            "tu ne montrais pas",
+            "il/elle/on ne montrait pas",
+            "nous ne montrions pas",
+            "vous ne montriez pas",
+            "ils/elles ne montraient pas"
+          ],
+          "tip": "Radical: montr- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je montrais souvent.",
+            "Tu montrais bien.",
+            "Nous montrions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne montrais pas.",
+            "Tu ne montrais pas.",
+            "Nous ne montrions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais montrer",
+            "tu vas montrer",
+            "il/elle/on va montrer",
+            "nous allons montrer",
+            "vous allez montrer",
+            "ils/elles vont montrer"
+          ],
+          "negative": [
+            "je ne vais pas montrer",
+            "tu ne vas pas montrer",
+            "il/elle/on ne va pas montrer",
+            "nous n'allons pas montrer",
+            "vous n'allez pas montrer",
+            "ils/elles ne vont pas montrer"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais montrer.",
+            "Tu vas montrer ?",
+            "Nous allons montrer."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas montrer.",
+            "Tu ne vas pas montrer.",
+            "Nous n'allons pas montrer."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je montrerai",
+            "tu montreras",
+            "il/elle/on montrera",
+            "nous montrerons",
+            "vous montrerez",
+            "ils/elles montreront"
+          ],
+          "negative": [
+            "je ne montrerai pas",
+            "tu ne montreras pas",
+            "il/elle/on ne montrera pas",
+            "nous ne montrerons pas",
+            "vous ne montrerez pas",
+            "ils/elles ne montreront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je montrerai demain.",
+            "Tu montreras ?",
+            "Nous montrerons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne montrerai pas.",
+            "Tu ne montreras pas.",
+            "Nous ne montrerons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais montré",
+            "tu avais montré",
+            "il/elle/on avait montré",
+            "nous avions montré",
+            "vous aviez montré",
+            "ils/elles avaient montré"
+          ],
+          "negative": [
+            "je n'avais pas montré",
+            "tu n'avais pas montré",
+            "il/elle/on n'avait pas montré",
+            "nous n'avions pas montré",
+            "vous n'aviez pas montré",
+            "ils/elles n'avaient pas montré"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais montré avant.",
+            "Tu avais montré ?",
+            "Nous avions montré ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas montré.",
+            "Tu n'avais pas montré.",
+            "Nous n'avions pas montré."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je montrerais",
+            "tu montrerais",
+            "il/elle/on montrerait",
+            "nous montrerions",
+            "vous montreriez",
+            "ils/elles montreraient"
+          ],
+          "negative": [
+            "je ne montrerais pas",
+            "tu ne montrerais pas",
+            "il/elle/on ne montrerait pas",
+            "nous ne montrerions pas",
+            "vous ne montreriez pas",
+            "ils/elles ne montreraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je montrerais bien.",
+            "Tu montrerais ?",
+            "Nous montrerions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne montrerais pas.",
+            "Tu ne montrerais pas.",
+            "Nous ne montrerions pas."
+          ]
+        }
+      }
+    },
+    "rentrer": {
+      "fr": "rentrer",
+      "variants": [],
+      "en": [
+        "return home"
+      ],
+      "es": [
+        "volver"
+      ],
+      "pt": [
+        "voltar"
+      ],
+      "it": [
+        "rientrare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je rentre",
+            "tu rentres",
+            "il/elle/on rentre",
+            "nous rentrons",
+            "vous rentrez",
+            "ils/elles rentrent"
+          ],
+          "negative": [
+            "je ne rentre pas",
+            "tu ne rentres pas",
+            "il/elle/on ne rentre pas",
+            "nous ne rentrons pas",
+            "vous ne rentrez pas",
+            "ils/elles ne rentrent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je rentre souvent.",
+            "Tu rentres bien.",
+            "Nous rentrons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne rentre pas.",
+            "Tu ne rentres pas.",
+            "Nous ne rentrons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai rentré",
+            "tu as rentré",
+            "il/elle/on a rentré",
+            "nous avons rentré",
+            "vous avez rentré",
+            "ils/elles ont rentré"
+          ],
+          "negative": [
+            "je n'ai pas rentré",
+            "tu n'as pas rentré",
+            "il/elle/on n'a pas rentré",
+            "nous n'avons pas rentré",
+            "vous n'avez pas rentré",
+            "ils/elles n'ont pas rentré"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai rentré hier.",
+            "Tu as rentré quoi ?",
+            "Nous avons rentré ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas rentré.",
+            "Tu n'as pas rentré.",
+            "Nous n'avons pas rentré."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je rentrais",
+            "tu rentrais",
+            "il/elle/on rentrait",
+            "nous rentrions",
+            "vous rentriez",
+            "ils/elles rentraient"
+          ],
+          "negative": [
+            "je ne rentrais pas",
+            "tu ne rentrais pas",
+            "il/elle/on ne rentrait pas",
+            "nous ne rentrions pas",
+            "vous ne rentriez pas",
+            "ils/elles ne rentraient pas"
+          ],
+          "tip": "Radical: rentr- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je rentrais souvent.",
+            "Tu rentrais bien.",
+            "Nous rentrions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne rentrais pas.",
+            "Tu ne rentrais pas.",
+            "Nous ne rentrions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais rentrer",
+            "tu vas rentrer",
+            "il/elle/on va rentrer",
+            "nous allons rentrer",
+            "vous allez rentrer",
+            "ils/elles vont rentrer"
+          ],
+          "negative": [
+            "je ne vais pas rentrer",
+            "tu ne vas pas rentrer",
+            "il/elle/on ne va pas rentrer",
+            "nous n'allons pas rentrer",
+            "vous n'allez pas rentrer",
+            "ils/elles ne vont pas rentrer"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais rentrer.",
+            "Tu vas rentrer ?",
+            "Nous allons rentrer."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas rentrer.",
+            "Tu ne vas pas rentrer.",
+            "Nous n'allons pas rentrer."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je rentrerai",
+            "tu rentreras",
+            "il/elle/on rentrera",
+            "nous rentrerons",
+            "vous rentrerez",
+            "ils/elles rentreront"
+          ],
+          "negative": [
+            "je ne rentrerai pas",
+            "tu ne rentreras pas",
+            "il/elle/on ne rentrera pas",
+            "nous ne rentrerons pas",
+            "vous ne rentrerez pas",
+            "ils/elles ne rentreront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je rentrerai demain.",
+            "Tu rentreras ?",
+            "Nous rentrerons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne rentrerai pas.",
+            "Tu ne rentreras pas.",
+            "Nous ne rentrerons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais rentré",
+            "tu avais rentré",
+            "il/elle/on avait rentré",
+            "nous avions rentré",
+            "vous aviez rentré",
+            "ils/elles avaient rentré"
+          ],
+          "negative": [
+            "je n'avais pas rentré",
+            "tu n'avais pas rentré",
+            "il/elle/on n'avait pas rentré",
+            "nous n'avions pas rentré",
+            "vous n'aviez pas rentré",
+            "ils/elles n'avaient pas rentré"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais rentré avant.",
+            "Tu avais rentré ?",
+            "Nous avions rentré ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas rentré.",
+            "Tu n'avais pas rentré.",
+            "Nous n'avions pas rentré."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je rentrerais",
+            "tu rentrerais",
+            "il/elle/on rentrerait",
+            "nous rentrerions",
+            "vous rentreriez",
+            "ils/elles rentreraient"
+          ],
+          "negative": [
+            "je ne rentrerais pas",
+            "tu ne rentrerais pas",
+            "il/elle/on ne rentrerait pas",
+            "nous ne rentrerions pas",
+            "vous ne rentreriez pas",
+            "ils/elles ne rentreraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je rentrerais bien.",
+            "Tu rentrerais ?",
+            "Nous rentrerions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne rentrerais pas.",
+            "Tu ne rentrerais pas.",
+            "Nous ne rentrerions pas."
+          ]
+        }
+      }
+    },
+    "commencer": {
+      "fr": "commencer",
+      "variants": [
+        "recommencer"
+      ],
+      "en": [
+        "start",
+        "begin"
+      ],
+      "es": [
+        "empezar",
+        "comenzar"
+      ],
+      "pt": [
+        "começar"
+      ],
+      "it": [
+        "cominciare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je commence",
+            "tu commences",
+            "il/elle/on commence",
+            "nous commencons",
+            "vous commencez",
+            "ils/elles commencent"
+          ],
+          "negative": [
+            "je ne commence pas",
+            "tu ne commences pas",
+            "il/elle/on ne commence pas",
+            "nous ne commencons pas",
+            "vous ne commencez pas",
+            "ils/elles ne commencent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je commence souvent.",
+            "Tu commences bien.",
+            "Nous commencons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne commence pas.",
+            "Tu ne commences pas.",
+            "Nous ne commencons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai commencé",
+            "tu as commencé",
+            "il/elle/on a commencé",
+            "nous avons commencé",
+            "vous avez commencé",
+            "ils/elles ont commencé"
+          ],
+          "negative": [
+            "je n'ai pas commencé",
+            "tu n'as pas commencé",
+            "il/elle/on n'a pas commencé",
+            "nous n'avons pas commencé",
+            "vous n'avez pas commencé",
+            "ils/elles n'ont pas commencé"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai commencé hier.",
+            "Tu as commencé quoi ?",
+            "Nous avons commencé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas commencé.",
+            "Tu n'as pas commencé.",
+            "Nous n'avons pas commencé."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je commencais",
+            "tu commencais",
+            "il/elle/on commencait",
+            "nous commencions",
+            "vous commenciez",
+            "ils/elles commencaient"
+          ],
+          "negative": [
+            "je ne commencais pas",
+            "tu ne commencais pas",
+            "il/elle/on ne commencait pas",
+            "nous ne commencions pas",
+            "vous ne commenciez pas",
+            "ils/elles ne commencaient pas"
+          ],
+          "tip": "Radical: commenc- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je commencais souvent.",
+            "Tu commencais bien.",
+            "Nous commencions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne commencais pas.",
+            "Tu ne commencais pas.",
+            "Nous ne commencions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais commencer",
+            "tu vas commencer",
+            "il/elle/on va commencer",
+            "nous allons commencer",
+            "vous allez commencer",
+            "ils/elles vont commencer"
+          ],
+          "negative": [
+            "je ne vais pas commencer",
+            "tu ne vas pas commencer",
+            "il/elle/on ne va pas commencer",
+            "nous n'allons pas commencer",
+            "vous n'allez pas commencer",
+            "ils/elles ne vont pas commencer"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais commencer.",
+            "Tu vas commencer ?",
+            "Nous allons commencer."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas commencer.",
+            "Tu ne vas pas commencer.",
+            "Nous n'allons pas commencer."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je commencerai",
+            "tu commenceras",
+            "il/elle/on commencera",
+            "nous commencerons",
+            "vous commencerez",
+            "ils/elles commenceront"
+          ],
+          "negative": [
+            "je ne commencerai pas",
+            "tu ne commenceras pas",
+            "il/elle/on ne commencera pas",
+            "nous ne commencerons pas",
+            "vous ne commencerez pas",
+            "ils/elles ne commenceront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je commencerai demain.",
+            "Tu commenceras ?",
+            "Nous commencerons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne commencerai pas.",
+            "Tu ne commenceras pas.",
+            "Nous ne commencerons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais commencé",
+            "tu avais commencé",
+            "il/elle/on avait commencé",
+            "nous avions commencé",
+            "vous aviez commencé",
+            "ils/elles avaient commencé"
+          ],
+          "negative": [
+            "je n'avais pas commencé",
+            "tu n'avais pas commencé",
+            "il/elle/on n'avait pas commencé",
+            "nous n'avions pas commencé",
+            "vous n'aviez pas commencé",
+            "ils/elles n'avaient pas commencé"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais commencé avant.",
+            "Tu avais commencé ?",
+            "Nous avions commencé ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas commencé.",
+            "Tu n'avais pas commencé.",
+            "Nous n'avions pas commencé."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je commencerais",
+            "tu commencerais",
+            "il/elle/on commencerait",
+            "nous commencerions",
+            "vous commenceriez",
+            "ils/elles commenceraient"
+          ],
+          "negative": [
+            "je ne commencerais pas",
+            "tu ne commencerais pas",
+            "il/elle/on ne commencerait pas",
+            "nous ne commencerions pas",
+            "vous ne commenceriez pas",
+            "ils/elles ne commenceraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je commencerais bien.",
+            "Tu commencerais ?",
+            "Nous commencerions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne commencerais pas.",
+            "Tu ne commencerais pas.",
+            "Nous ne commencerions pas."
+          ]
+        }
+      }
+    },
+    "arrêter": {
+      "fr": "arrêter",
+      "variants": [],
+      "en": [
+        "stop"
+      ],
+      "es": [
+        "parar"
+      ],
+      "pt": [
+        "parar"
+      ],
+      "it": [
+        "fermare"
+      ],
+      "group": "-ER",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je arrête",
+            "tu arrêtes",
+            "il/elle/on arrête",
+            "nous arrêtons",
+            "vous arrêtez",
+            "ils/elles arrêtent"
+          ],
+          "negative": [
+            "je ne arrête pas",
+            "tu ne arrêtes pas",
+            "il/elle/on ne arrête pas",
+            "nous ne arrêtons pas",
+            "vous ne arrêtez pas",
+            "ils/elles ne arrêtent pas"
+          ],
+          "tip": "Verbe régulier en -ER",
+          "usage": "Action présente, habitude",
+          "timeIndicators": "maintenant, aujourd'hui, souvent",
+          "examples": [
+            "Je arrête souvent.",
+            "Tu arrêtes bien.",
+            "Nous arrêtons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne arrête pas.",
+            "Tu ne arrêtes pas.",
+            "Nous ne arrêtons pas."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai arrêté",
+            "tu as arrêté",
+            "il/elle/on a arrêté",
+            "nous avons arrêté",
+            "vous avez arrêté",
+            "ils/elles ont arrêté"
+          ],
+          "negative": [
+            "je n'ai pas arrêté",
+            "tu n'as pas arrêté",
+            "il/elle/on n'a pas arrêté",
+            "nous n'avons pas arrêté",
+            "vous n'avez pas arrêté",
+            "ils/elles n'ont pas arrêté"
+          ],
+          "tip": "Avec AVOIR + participe en -É",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai arrêté hier.",
+            "Tu as arrêté quoi ?",
+            "Nous avons arrêté ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas arrêté.",
+            "Tu n'as pas arrêté.",
+            "Nous n'avons pas arrêté."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "je arrêtais",
+            "tu arrêtais",
+            "il/elle/on arrêtait",
+            "nous arrêtions",
+            "vous arrêtiez",
+            "ils/elles arrêtaient"
+          ],
+          "negative": [
+            "je ne arrêtais pas",
+            "tu ne arrêtais pas",
+            "il/elle/on ne arrêtait pas",
+            "nous ne arrêtions pas",
+            "vous ne arrêtiez pas",
+            "ils/elles ne arrêtaient pas"
+          ],
+          "tip": "Radical: arrêt- + terminaisons de l'imparfait",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, tous les jours (passé)",
+          "examples": [
+            "Je arrêtais souvent.",
+            "Tu arrêtais bien.",
+            "Nous arrêtions ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne arrêtais pas.",
+            "Tu ne arrêtais pas.",
+            "Nous ne arrêtions pas."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais arrêter",
+            "tu vas arrêter",
+            "il/elle/on va arrêter",
+            "nous allons arrêter",
+            "vous allez arrêter",
+            "ils/elles vont arrêter"
+          ],
+          "negative": [
+            "je ne vais pas arrêter",
+            "tu ne vas pas arrêter",
+            "il/elle/on ne va pas arrêter",
+            "nous n'allons pas arrêter",
+            "vous n'allez pas arrêter",
+            "ils/elles ne vont pas arrêter"
+          ],
+          "tip": "ALLER + infinitif",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais arrêter.",
+            "Tu vas arrêter ?",
+            "Nous allons arrêter."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas arrêter.",
+            "Tu ne vas pas arrêter.",
+            "Nous n'allons pas arrêter."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je arrêterai",
+            "tu arrêteras",
+            "il/elle/on arrêtera",
+            "nous arrêterons",
+            "vous arrêterez",
+            "ils/elles arrêteront"
+          ],
+          "negative": [
+            "je ne arrêterai pas",
+            "tu ne arrêteras pas",
+            "il/elle/on ne arrêtera pas",
+            "nous ne arrêterons pas",
+            "vous ne arrêterez pas",
+            "ils/elles ne arrêteront pas"
+          ],
+          "tip": "Infinitif + terminaisons du futur",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je arrêterai demain.",
+            "Tu arrêteras ?",
+            "Nous arrêterons ensemble."
+          ],
+          "examplesNegative": [
+            "Je ne arrêterai pas.",
+            "Tu ne arrêteras pas.",
+            "Nous ne arrêterons pas."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais arrêté",
+            "tu avais arrêté",
+            "il/elle/on avait arrêté",
+            "nous avions arrêté",
+            "vous aviez arrêté",
+            "ils/elles avaient arrêté"
+          ],
+          "negative": [
+            "je n'avais pas arrêté",
+            "tu n'avais pas arrêté",
+            "il/elle/on n'avait pas arrêté",
+            "nous n'avions pas arrêté",
+            "vous n'aviez pas arrêté",
+            "ils/elles n'avaient pas arrêté"
+          ],
+          "tip": "AVOIR à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais arrêté avant.",
+            "Tu avais arrêté ?",
+            "Nous avions arrêté ensemble."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas arrêté.",
+            "Tu n'avais pas arrêté.",
+            "Nous n'avions pas arrêté."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je arrêterais",
+            "tu arrêterais",
+            "il/elle/on arrêterait",
+            "nous arrêterions",
+            "vous arrêteriez",
+            "ils/elles arrêteraient"
+          ],
+          "negative": [
+            "je ne arrêterais pas",
+            "tu ne arrêterais pas",
+            "il/elle/on ne arrêterait pas",
+            "nous ne arrêterions pas",
+            "vous ne arrêteriez pas",
+            "ils/elles ne arrêteraient pas"
+          ],
+          "tip": "Infinitif + terminaisons de l'imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je arrêterais bien.",
+            "Tu arrêterais ?",
+            "Nous arrêterions volontiers."
+          ],
+          "examplesNegative": [
+            "Je ne arrêterais pas.",
+            "Tu ne arrêterais pas.",
+            "Nous ne arrêterions pas."
+          ]
+        }
+      }
+    },
+    "être": {
+      "fr": "être",
+      "variants": [],
+      "en": [
+        "be",
+        "to be"
+      ],
+      "es": [
+        "ser",
+        "estar"
+      ],
+      "pt": [
+        "ser",
+        "estar"
+      ],
+      "it": [
+        "essere"
+      ],
+      "group": "irrégulier",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je suis",
+            "tu es",
+            "il/elle/on est",
+            "nous sommes",
+            "vous êtes",
+            "ils/elles sont"
+          ],
+          "negative": [
+            "je ne suis pas",
+            "tu n'es pas",
+            "il/elle/on n'est pas",
+            "nous ne sommes pas",
+            "vous n'êtes pas",
+            "ils/elles ne sont pas"
+          ],
+          "tip": "Verbe irrégulier - le plus utilisé !",
+          "usage": "État, identité, profession",
+          "timeIndicators": "maintenant, aujourd'hui",
+          "examples": [
+            "Je suis étudiant.",
+            "Tu es français ?",
+            "Nous sommes contents."
+          ],
+          "examplesNegative": [
+            "Je ne suis pas étudiant.",
+            "Tu n'es pas français.",
+            "Nous ne sommes pas contents."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai été",
+            "tu as été",
+            "il/elle/on a été",
+            "nous avons été",
+            "vous avez été",
+            "ils/elles ont été"
+          ],
+          "negative": [
+            "je n'ai pas été",
+            "tu n'as pas été",
+            "il/elle/on n'a pas été",
+            "nous n'avons pas été",
+            "vous n'avez pas été",
+            "ils/elles n'ont pas été"
+          ],
+          "tip": "Avec AVOIR (pas ÊTRE !)",
+          "usage": "État passé terminé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai été malade.",
+            "Tu as été où ?",
+            "Nous avons été contents."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas été malade.",
+            "Tu n'as pas été là.",
+            "Nous n'avons pas été contents."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "j'étais",
+            "tu étais",
+            "il/elle/on était",
+            "nous étions",
+            "vous étiez",
+            "ils/elles étaient"
+          ],
+          "negative": [
+            "je n'étais pas",
+            "tu n'étais pas",
+            "il/elle/on n'était pas",
+            "nous n'étions pas",
+            "vous n'étiez pas",
+            "ils/elles n'étaient pas"
+          ],
+          "tip": "Radical: ét- + terminaisons",
+          "usage": "État passé, description",
+          "timeIndicators": "avant, quand j'étais petit",
+          "examples": [
+            "J'étais petit.",
+            "Tu étais où ?",
+            "Nous étions contents."
+          ],
+          "examplesNegative": [
+            "Je n'étais pas petit.",
+            "Tu n'étais pas là.",
+            "Nous n'étions pas contents."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais être",
+            "tu vas être",
+            "il/elle/on va être",
+            "nous allons être",
+            "vous allez être",
+            "ils/elles vont être"
+          ],
+          "negative": [
+            "je ne vais pas être",
+            "tu ne vas pas être",
+            "il/elle/on ne va pas être",
+            "nous n'allons pas être",
+            "vous n'allez pas être",
+            "ils/elles ne vont pas être"
+          ],
+          "tip": "ALLER + être",
+          "usage": "État futur proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais être en retard.",
+            "Tu vas être où ?",
+            "Nous allons être contents."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas être en retard.",
+            "Tu ne vas pas être là.",
+            "Nous n'allons pas être contents."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "je serai",
+            "tu seras",
+            "il/elle/on sera",
+            "nous serons",
+            "vous serez",
+            "ils/elles seront"
+          ],
+          "negative": [
+            "je ne serai pas",
+            "tu ne seras pas",
+            "il/elle/on ne sera pas",
+            "nous ne serons pas",
+            "vous ne serez pas",
+            "ils/elles ne seront pas"
+          ],
+          "tip": "Radical irrégulier: ser-",
+          "usage": "État futur",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "Je serai là demain.",
+            "Tu seras où ?",
+            "Nous serons contents."
+          ],
+          "examplesNegative": [
+            "Je ne serai pas là.",
+            "Tu ne seras pas là.",
+            "Nous ne serons pas contents."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais été",
+            "tu avais été",
+            "il/elle/on avait été",
+            "nous avions été",
+            "vous aviez été",
+            "ils/elles avaient été"
+          ],
+          "negative": [
+            "je n'avais pas été",
+            "tu n'avais pas été",
+            "il/elle/on n'avait pas été",
+            "nous n'avions pas été",
+            "vous n'aviez pas été",
+            "ils/elles n'avaient pas été"
+          ],
+          "tip": "AVOIR à l'imparfait + été",
+          "usage": "État avant un autre moment passé",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais été malade.",
+            "Tu avais été où ?",
+            "Nous avions été contents."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas été malade.",
+            "Tu n'avais pas été là.",
+            "Nous n'avions pas été contents."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "je serais",
+            "tu serais",
+            "il/elle/on serait",
+            "nous serions",
+            "vous seriez",
+            "ils/elles seraient"
+          ],
+          "negative": [
+            "je ne serais pas",
+            "tu ne serais pas",
+            "il/elle/on ne serait pas",
+            "nous ne serions pas",
+            "vous ne seriez pas",
+            "ils/elles ne seraient pas"
+          ],
+          "tip": "Radical: ser- + terminaisons imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "Je serais content.",
+            "Tu serais d'accord ?",
+            "Nous serions ravis."
+          ],
+          "examplesNegative": [
+            "Je ne serais pas content.",
+            "Tu ne serais pas d'accord.",
+            "Nous ne serions pas ravis."
+          ]
+        }
+      }
+    },
+    "avoir": {
+      "fr": "avoir",
+      "variants": [],
+      "en": [
+        "have",
+        "to have"
+      ],
+      "es": [
+        "tener",
+        "haber"
+      ],
+      "pt": [
+        "ter",
+        "haver"
+      ],
+      "it": [
+        "avere"
+      ],
+      "group": "irrégulier",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "j'ai",
+            "tu as",
+            "il/elle/on a",
+            "nous avons",
+            "vous avez",
+            "ils/elles ont"
+          ],
+          "negative": [
+            "je n'ai pas",
+            "tu n'as pas",
+            "il/elle/on n'a pas",
+            "nous n'avons pas",
+            "vous n'avez pas",
+            "ils/elles n'ont pas"
+          ],
+          "tip": "Verbe irrégulier - très important !",
+          "usage": "Possession, âge, expressions",
+          "timeIndicators": "maintenant, aujourd'hui",
+          "examples": [
+            "J'ai 25 ans.",
+            "Tu as une voiture ?",
+            "Nous avons faim."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas 25 ans.",
+            "Tu n'as pas de voiture.",
+            "Nous n'avons pas faim."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "j'ai eu",
+            "tu as eu",
+            "il/elle/on a eu",
+            "nous avons eu",
+            "vous avez eu",
+            "ils/elles ont eu"
+          ],
+          "negative": [
+            "je n'ai pas eu",
+            "tu n'as pas eu",
+            "il/elle/on n'a pas eu",
+            "nous n'avons pas eu",
+            "vous n'avez pas eu",
+            "ils/elles n'ont pas eu"
+          ],
+          "tip": "Avec AVOIR + eu",
+          "usage": "Possession passée",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "J'ai eu de la chance.",
+            "Tu as eu quoi ?",
+            "Nous avons eu un problème."
+          ],
+          "examplesNegative": [
+            "Je n'ai pas eu de chance.",
+            "Tu n'as pas eu de chance.",
+            "Nous n'avons pas eu de problème."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "j'avais",
+            "tu avais",
+            "il/elle/on avait",
+            "nous avions",
+            "vous aviez",
+            "ils/elles avaient"
+          ],
+          "negative": [
+            "je n'avais pas",
+            "tu n'avais pas",
+            "il/elle/on n'avait pas",
+            "nous n'avions pas",
+            "vous n'aviez pas",
+            "ils/elles n'avaient pas"
+          ],
+          "tip": "Radical: av- + terminaisons",
+          "usage": "Possession passée, description",
+          "timeIndicators": "avant, quand j'étais petit",
+          "examples": [
+            "J'avais 10 ans.",
+            "Tu avais peur ?",
+            "Nous avions un chien."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas 10 ans.",
+            "Tu n'avais pas peur.",
+            "Nous n'avions pas de chien."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais avoir",
+            "tu vas avoir",
+            "il/elle/on va avoir",
+            "nous allons avoir",
+            "vous allez avoir",
+            "ils/elles vont avoir"
+          ],
+          "negative": [
+            "je ne vais pas avoir",
+            "tu ne vas pas avoir",
+            "il/elle/on ne va pas avoir",
+            "nous n'allons pas avoir",
+            "vous n'allez pas avoir",
+            "ils/elles ne vont pas avoir"
+          ],
+          "tip": "ALLER + avoir",
+          "usage": "Possession future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais avoir 26 ans.",
+            "Tu vas avoir quoi ?",
+            "Nous allons avoir un bébé."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas avoir 26 ans.",
+            "Tu ne vas pas avoir ça.",
+            "Nous n'allons pas avoir de bébé."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "j'aurai",
+            "tu auras",
+            "il/elle/on aura",
+            "nous aurons",
+            "vous aurez",
+            "ils/elles auront"
+          ],
+          "negative": [
+            "je n'aurai pas",
+            "tu n'auras pas",
+            "il/elle/on n'aura pas",
+            "nous n'aurons pas",
+            "vous n'aurez pas",
+            "ils/elles n'auront pas"
+          ],
+          "tip": "Radical: aur- + terminaisons",
+          "usage": "Possession future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "J'aurai 30 ans.",
+            "Tu auras quoi ?",
+            "Nous aurons une maison."
+          ],
+          "examplesNegative": [
+            "Je n'aurai pas 30 ans.",
+            "Tu n'auras pas ça.",
+            "Nous n'aurons pas de maison."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'avais eu",
+            "tu avais eu",
+            "il/elle/on avait eu",
+            "nous avions eu",
+            "vous aviez eu",
+            "ils/elles avaient eu"
+          ],
+          "negative": [
+            "je n'avais pas eu",
+            "tu n'avais pas eu",
+            "il/elle/on n'avait pas eu",
+            "nous n'avions pas eu",
+            "vous n'aviez pas eu",
+            "ils/elles n'avaient pas eu"
+          ],
+          "tip": "AVOIR à l'imparfait + eu",
+          "usage": "Possession avant un autre moment",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'avais eu peur.",
+            "Tu avais eu quoi ?",
+            "Nous avions eu de la chance."
+          ],
+          "examplesNegative": [
+            "Je n'avais pas eu peur.",
+            "Tu n'avais pas eu ça.",
+            "Nous n'avions pas eu de chance."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "j'aurais",
+            "tu aurais",
+            "il/elle/on aurait",
+            "nous aurions",
+            "vous auriez",
+            "ils/elles auraient"
+          ],
+          "negative": [
+            "je n'aurais pas",
+            "tu n'aurais pas",
+            "il/elle/on n'aurait pas",
+            "nous n'aurions pas",
+            "vous n'auriez pas",
+            "ils/elles n'auraient pas"
+          ],
+          "tip": "Radical: aur- + terminaisons imparfait",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "J'aurais besoin d'aide.",
+            "Tu aurais le temps ?",
+            "Nous aurions une question."
+          ],
+          "examplesNegative": [
+            "Je n'aurais pas besoin d'aide.",
+            "Tu n'aurais pas le temps.",
+            "Nous n'aurions pas de question."
+          ]
+        }
+      }
+    },
+    "aller": {
+      "fr": "aller",
+      "variants": [],
+      "en": [
+        "go",
+        "to go"
+      ],
+      "es": [
+        "ir"
+      ],
+      "pt": [
+        "ir"
+      ],
+      "it": [
+        "andare"
+      ],
+      "group": "irrégulier",
+      "conjugations": {
+        "present": {
+          "forms": [
+            "je vais",
+            "tu vas",
+            "il/elle/on va",
+            "nous allons",
+            "vous allez",
+            "ils/elles vont"
+          ],
+          "negative": [
+            "je ne vais pas",
+            "tu ne vas pas",
+            "il/elle/on ne va pas",
+            "nous n'allons pas",
+            "vous n'allez pas",
+            "ils/elles ne vont pas"
+          ],
+          "tip": "Verbe irrégulier très utilisé",
+          "usage": "Action présente, déplacement",
+          "timeIndicators": "maintenant, aujourd'hui",
+          "examples": [
+            "Je vais au cinéma.",
+            "Tu vas où ?",
+            "Nous allons à Paris."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas au cinéma.",
+            "Tu ne vas pas où ?",
+            "Nous n'allons pas à Paris."
+          ]
+        },
+        "passeCompose": {
+          "forms": [
+            "je suis allé(e)",
+            "tu es allé(e)",
+            "il/elle/on est allé(e)",
+            "nous sommes allé(e)s",
+            "vous êtes allé(e)(s)",
+            "ils/elles sont allé(e)s"
+          ],
+          "negative": [
+            "je ne suis pas allé(e)",
+            "tu n'es pas allé(e)",
+            "il/elle/on n'est pas allé(e)",
+            "nous ne sommes pas allé(e)s",
+            "vous n'êtes pas allé(e)(s)",
+            "ils/elles ne sont pas allé(e)s"
+          ],
+          "tip": "Avec ÊTRE + accord du participe !",
+          "usage": "Action terminée dans le passé",
+          "timeIndicators": "hier, la semaine dernière",
+          "examples": [
+            "Je suis allé au cinéma hier.",
+            "Tu es allé où ?",
+            "Nous sommes allés à Paris."
+          ],
+          "examplesNegative": [
+            "Je ne suis pas allé au cinéma.",
+            "Tu n'es pas allé où ?",
+            "Nous ne sommes pas allés à Paris."
+          ]
+        },
+        "imparfait": {
+          "forms": [
+            "j'allais",
+            "tu allais",
+            "il/elle/on allait",
+            "nous allions",
+            "vous alliez",
+            "ils/elles allaient"
+          ],
+          "negative": [
+            "je n'allais pas",
+            "tu n'allais pas",
+            "il/elle/on n'allait pas",
+            "nous n'allions pas",
+            "vous n'alliez pas",
+            "ils/elles n'allaient pas"
+          ],
+          "tip": "Radical: all- + terminaisons",
+          "usage": "Habitude passée, description",
+          "timeIndicators": "avant, souvent (passé)",
+          "examples": [
+            "J'allais souvent au parc.",
+            "Tu allais à l'école à pied ?",
+            "Nous allions au marché le samedi."
+          ],
+          "examplesNegative": [
+            "Je n'allais pas souvent au parc.",
+            "Tu n'allais pas à l'école.",
+            "Nous n'allions pas au marché."
+          ]
+        },
+        "futurProche": {
+          "forms": [
+            "je vais aller",
+            "tu vas aller",
+            "il/elle/on va aller",
+            "nous allons aller",
+            "vous allez aller",
+            "ils/elles vont aller"
+          ],
+          "negative": [
+            "je ne vais pas aller",
+            "tu ne vas pas aller",
+            "il/elle/on ne va pas aller",
+            "nous n'allons pas aller",
+            "vous n'allez pas aller",
+            "ils/elles ne vont pas aller"
+          ],
+          "tip": "ALLER + ALLER (oui, deux fois !)",
+          "usage": "Action future proche",
+          "timeIndicators": "bientôt, tout à l'heure",
+          "examples": [
+            "Je vais aller au cinéma.",
+            "Tu vas aller où ?",
+            "Nous allons aller à Paris."
+          ],
+          "examplesNegative": [
+            "Je ne vais pas aller au cinéma.",
+            "Tu ne vas pas aller où ?",
+            "Nous n'allons pas aller à Paris."
+          ]
+        },
+        "futurSimple": {
+          "forms": [
+            "j'irai",
+            "tu iras",
+            "il/elle/on ira",
+            "nous irons",
+            "vous irez",
+            "ils/elles iront"
+          ],
+          "negative": [
+            "je n'irai pas",
+            "tu n'iras pas",
+            "il/elle/on n'ira pas",
+            "nous n'irons pas",
+            "vous n'irez pas",
+            "ils/elles n'iront pas"
+          ],
+          "tip": "Radical irrégulier: ir-",
+          "usage": "Action future",
+          "timeIndicators": "demain, plus tard",
+          "examples": [
+            "J'irai au cinéma demain.",
+            "Tu iras où ?",
+            "Nous irons à Paris."
+          ],
+          "examplesNegative": [
+            "Je n'irai pas au cinéma.",
+            "Tu n'iras pas où ?",
+            "Nous n'irons pas à Paris."
+          ]
+        },
+        "plusQueParfait": {
+          "forms": [
+            "j'étais allé(e)",
+            "tu étais allé(e)",
+            "il/elle/on était allé(e)",
+            "nous étions allé(e)s",
+            "vous étiez allé(e)(s)",
+            "ils/elles étaient allé(e)s"
+          ],
+          "negative": [
+            "je n'étais pas allé(e)",
+            "tu n'étais pas allé(e)",
+            "il/elle/on n'était pas allé(e)",
+            "nous n'étions pas allé(e)s",
+            "vous n'étiez pas allé(e)(s)",
+            "ils/elles n'étaient pas allé(e)s"
+          ],
+          "tip": "ÊTRE à l'imparfait + participe",
+          "usage": "Action avant une autre action passée",
+          "timeIndicators": "avant de..., déjà",
+          "examples": [
+            "J'étais allé au cinéma avant.",
+            "Tu étais allé où ?",
+            "Nous étions allés à Paris."
+          ],
+          "examplesNegative": [
+            "Je n'étais pas allé au cinéma.",
+            "Tu n'étais pas allé où ?",
+            "Nous n'étions pas allés à Paris."
+          ]
+        },
+        "conditionnel": {
+          "forms": [
+            "j'irais",
+            "tu irais",
+            "il/elle/on irait",
+            "nous irions",
+            "vous iriez",
+            "ils/elles iraient"
+          ],
+          "negative": [
+            "je n'irais pas",
+            "tu n'irais pas",
+            "il/elle/on n'irait pas",
+            "nous n'irions pas",
+            "vous n'iriez pas",
+            "ils/elles n'iraient pas"
+          ],
+          "tip": "Radical irrégulier: ir-",
+          "usage": "Souhait, hypothèse",
+          "timeIndicators": "si (+ imparfait), peut-être",
+          "examples": [
+            "J'irais bien au cinéma.",
+            "Tu irais où ?",
+            "Nous irions à Paris."
+          ],
+          "examplesNegative": [
+            "Je n'irais pas au cinéma.",
+            "Tu n'irais pas où ?",
+            "Nous n'irions pas à Paris."
+          ]
+        }
+      }
+    }
+  }
+}
