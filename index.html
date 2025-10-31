@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conjugami - La conjugaison à ta façon</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Page d'accueil -->
+    <div id="home-page" class="page active">
+        <div class="container">
+            <header class="header">
+                <h1 class="logo">🎨 Conjugami</h1>
+                <p class="tagline">La conjugaison à ta façon</p>
+            </header>
+
+            <!-- Barre de recherche -->
+            <div class="search-box">
+                <input type="text" id="search-input" placeholder="Cherche un verbe (FR/EN/ES/PT/IT)...">
+                <button id="search-btn">🔍</button>
+            </div>
+
+            <!-- Navigation -->
+            <nav class="main-nav">
+                <button class="nav-btn" data-page="temps">📚 Tous les temps</button>
+                <button class="nav-btn" data-page="mes-verbes">⭐ Mes verbes</button>
+                <button class="nav-btn" data-page="mon-origami">🎨 Mon origami</button>
+            </nav>
+
+            <!-- Message motivant -->
+            <div class="motivational-message">
+                <p id="motivational-text">Commence à plier ton origami ! 💜</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page Conjugaison -->
+    <div id="conjugation-page" class="page">
+        <div class="container">
+            <button class="back-btn" id="back-home">← Retour</button>
+            
+            <div class="verb-header">
+                <h2 id="verb-title">MANGER</h2>
+            </div>
+
+            <!-- Toggle Négatif -->
+            <div class="negative-toggle">
+                <label class="switch">
+                    <input type="checkbox" id="negative-mode">
+                    <span class="slider"></span>
+                </label>
+                <span class="toggle-label">Forme négative</span>
+            </div>
+
+            <!-- Conjugaisons -->
+            <div id="conjugations-container"></div>
+
+            <!-- Ajouter un exemple -->
+            <div class="add-example-section">
+                <h3>➕ Ajouter mon exemple</h3>
+                <textarea id="example-input" placeholder="Écris ta phrase ici..."></textarea>
+                <button id="save-example-btn">Sauvegarder</button>
+            </div>
+
+            <!-- Mes exemples -->
+            <div class="my-examples-section">
+                <h3>✍️ Mes exemples</h3>
+                <div id="my-examples-list"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page Mes Verbes -->
+    <div id="mes-verbes-page" class="page">
+        <div class="container">
+            <button class="back-btn" id="back-mes-verbes">← Retour</button>
+            <h2>⭐ Mes Verbes</h2>
+            <div id="mes-verbes-list"></div>
+        </div>
+    </div>
+
+    <!-- Page Mon Origami (Progression) -->
+    <div id="mon-origami-page" class="page">
+        <div class="container">
+            <button class="back-btn" id="back-origami">← Retour</button>
+            <h2>🎨 Mon Origami</h2>
+            
+            <div class="progress-container">
+                <div class="origami-visual" id="origami-visual">
+                    <div class="origami-shape">📄</div>
+                </div>
+                
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+                
+                <p class="progress-text" id="progress-text">Niveau 1 : 0/5</p>
+                
+                <div class="stats">
+                    <h3>📊 Tes statistiques :</h3>
+                    <ul>
+                        <li>🔍 <span id="stat-verbes">0</span> verbes consultés</li>
+                        <li>✍️ <span id="stat-exemples">0</span> exemples créés</li>
+                    </ul>
+                </div>
+                
+                <div class="motivational-box">
+                    <p id="origami-message">Commence à plier ton origami ! 🎨</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
