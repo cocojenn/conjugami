@@ -61,6 +61,9 @@ async function loadVerbs() {
         alert('Erreur: Impossible de charger les verbes. Vérifie que verbs.json est présent.');
     }
 }
+verbDatabase = data.verbs;
+        window.verbDatabase = verbDatabase;  // ← AJOUTE CETTE LIGNE
+        console.log(`✅ ${Object.keys(verbDatabase).length} verbes de base chargés`);
 
 // Navigation
 function showPage(pageId) {
