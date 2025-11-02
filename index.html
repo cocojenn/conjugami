@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Conjugami - La conjugaison à ta façon</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="interactive-features.css">
 </head>
 <body>
     <!-- Page d'accueil -->
@@ -23,9 +24,12 @@
 
             <!-- Navigation -->
             <nav class="main-nav">
-                <button class="nav-btn" data-page="mes-verbes">⭐ Mes verbes</button>
-                <button class="nav-btn" data-page="mon-origami">🎨 Mon origami</button>
-            </nav>
+    <button class="nav-btn" data-page="mes-verbes">⭐ Mes verbes</button>
+    <button class="nav-btn" data-page="mon-origami">🎨 Mon origami</button>
+    <button class="nav-btn" data-page="flashcard-page">🃏 Flashcards</button>
+    <button class="nav-btn" data-page="story-page">💬 Mode Histoire</button>
+    <button class="nav-btn" data-page="games-page">🎮 Mini-Jeux</button>
+</nav>
 
             <!-- Message motivant -->
             <div class="motivational-message">
@@ -97,7 +101,34 @@
             </div>
         </div>
     </div>
+<!-- NOUVEAU : Page Mode Histoire -->
+    <div id="story-page" class="page">
+        <div class="container">
+            <button class="back-btn" id="back-from-story">← Retour</button>
+            <div class="story-header">
+                <h2>💬 Mode Histoire</h2>
+                <p>Apprends en contexte avec des scénarios réels</p>
+            </div>
+            <div id="story-content"></div>
+        </div>
+    </div>
 
+    <!-- NOUVEAU : Page Mini-Jeux -->
+    <div id="games-page" class="page">
+        <div class="container">
+            <button class="back-btn" id="back-from-games">← Retour</button>
+            <div class="story-header">
+                <h2>🎮 Mini-Jeux</h2>
+                <p>Apprends en t'amusant !</p>
+            </div>
+            <div id="games-content"></div>
+        </div>
+    </div>
     <script src="app.js"></script>
+    <script src="adaptive-learning.js"></script>
+<script src="flashcards.js"></script>
+<script src="story-mode.js"></script>
+<script src="mini-games.js"></script>
+<script src="init-interactive.js"></script>
 </body>
 </html>
